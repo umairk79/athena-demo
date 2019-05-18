@@ -1,0 +1,603 @@
+.justified {
+    /*  To justify row items vertically  */
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.unclick {
+    pointer-events: none;
+    cursor: default;
+    
+}
+
+select {
+    /*  Select Tab  */
+    cursor: pointer;
+}
+
+input {
+    /*  Input Tag  */
+    border-radius: 0;
+}
+
+.progress {
+    /*  All progress bars in the page  */
+    height: 5px;
+    margin: auto 0;
+}
+
+.fa {
+    /*  font awesome icons  */
+    cursor: pointer;
+}
+
+.navbar {
+    /*  Navbar Height  */
+    height: 8vh;
+    margin-bottom: 0;
+}
+
+#demo-page {
+    /*  The container  */
+    height: 87vh;
+}
+
+.video-rendering {
+    /*  The left part of the container  */
+    background: #F0F0F0;
+    padding: 1vw 1vw 1vw 2.5vw;
+    height: 87vh;
+}
+
+.entity-analysis {
+    /*  The Right part of the container  */
+    padding-top: 1vw;
+    height: 87vh;
+    padding-right: 2.5vw;
+}
+
+.video-div {
+    /*  The div containing the video  */
+    height: 48vh;
+}
+
+video {
+    height: 41vh;
+}
+
+.playlist {
+    display: block;
+    margin: auto 0;
+    margin-left: 1.5vw;
+}
+
+#playlist-div {
+    /*  Playlist div */
+    margin-right: 1.5vw;
+    padding: 0;
+    width: 4vh;
+    height: 4vh;
+    cursor: pointer;
+}
+
+.description {
+    background: white;
+    margin-top: 1.5vh;
+    border: 1px solid #ccc;
+    /*  Description of Video  */
+    height: 6vh;
+    padding: 0.5vh 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.description p {
+    font-size: 0.9em;
+}
+
+.description::-webkit-scrollbar {
+    /*  Scroll bar width  */
+    width: 0.6em;
+    background: transparent;
+}
+
+.description::-webkit-scrollbar-thumb {
+    /*  Scroll bar position indicator  */
+    background: #246dff;
+    border-radius: 0.3em;
+}
+
+#objects-scrollable {
+    /*  The scrollabe objects div right side of the video  */
+    padding-right: 10px;
+    height: 40vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-bottom: 1vh;
+}
+
+#objects-scrollable::-webkit-scrollbar {
+    /*  Scroll bar width  */
+    width: 0.6em;
+    background: transparent;
+}
+
+#objects-scrollable::-webkit-scrollbar-thumb {
+    /*  Scroll bar position indicator  */
+    background: #246dff;
+    border-radius: 0.3em;
+}
+
+.object-progress-bar {
+    /*  Progress bar of objects  */
+    background-color: #cccccc;
+}
+
+.object-variables {
+
+    /*  The objects with input box(currently not included)  */
+    margin-bottom: 1.5vh;
+}
+
+.object-div{
+    margin-bottom:1vh;
+}
+
+#filter-div {
+    /*  The divs containg the filter and playlist icons  */
+    font-size: 3vh;
+    background: white;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 4px rgba(0, 0, 0, 0.28);
+    padding: 0;
+    width: 5vh;
+    line-height: 5vh;
+    height: 5vh;
+}
+
+.filter-playlist-fa {
+    /*  filter and playlist fa icons  */
+    display: inline-block;
+}
+
+.slider {
+    /*  Slider Div  */
+    height: 8vh;
+    margin-right: 0vw;
+}
+
+.screen-time-text {
+    /*  Screen Time for the last n months text in blue  */
+    font-size: 0.9vw;
+    margin-top: 1vh;
+    font-weight: bold;
+}
+
+md-slider {              /*  MD-Slider  */
+    height: 5vh;
+    margin-top: -1.5vh;
+    width:95%;
+}
+
+#entity-appearance-bar-div {
+    /*  Div containg all the entity appearance bars(progress + bar chart)  */
+    margin-top: 0.5vh;
+    height: 34vh;
+    margin-left: -0.5vw;
+    /*  to allign progress bar with the video  */
+    padding-right: 10px;
+    /* Space for scroll */
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#entity-appearance-bar-div::-webkit-scrollbar {
+    /*  Scroll bar width  */
+    width: 0.6em;
+    background: transparent;
+}
+
+#entity-appearance-bar-div::-webkit-scrollbar-thumb {
+    /*  Scroll bar position indicator  */
+    background: #246dff;
+    border-radius: 0.3em;
+}
+
+.entity-appearance-bar {
+    /*  entity appearance bars(progress + bar chart + cross)  */
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 2px 3px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    border: 1px solid transparent;
+    margin-bottom: 1vh;
+    padding-left: 0.5vw;
+    height: 5.8vh;
+    cursor: pointer;
+}
+
+.entity-appearance-bar-selected {
+    border: 1px solid green;
+}
+
+.entity-appearance-bar:hover {
+    /*  entity appearance bars on hover  */
+    box-shadow: 0 5px 11px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.22);
+    cursor: pointer;
+    border: 1px solid #246dff;
+    color: #246dff;
+}
+
+.bar-chart-div {
+    /*  Bar chart container div  */
+    height: 4vh;
+    width: 30%;
+}
+
+.progress-bar-success {
+    /*  Grey progress(Entity present, not yet played)  */
+    background-color: #cccccc;
+}
+
+.progress-bar-danger {
+    /*  Transparent progress(Entity not present)  */
+    background-color: transparent;
+}
+
+.progress-bar-info {
+    /*  Blue progress(Entity present, played through)  */
+    background-color: #246dff;
+}
+
+label {
+    /*  Name labels  */
+    font-size: 2vh;
+}
+
+.cross {
+    /*  cross div  */
+    padding-left: 0;
+    width: 3.33%;
+}
+
+.entity-info {
+    /*  Entity information div  */
+    border: 1px solid #cccccc;
+    height: 14vh;
+    background: #F0F0F0;
+    margin-bottom: 2vh;
+}
+
+.entity-image-div {
+    /*  Entity confirmation container div  */
+    height:100%;
+    padding:0;
+}
+
+.entity-image {
+    /*  Entity image  */
+    display: inline-block;
+    margin: 0 auto;
+    min-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.entity-text {
+    /*  Entity description  */
+    padding: 1vh 1vw;
+    height: 12vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.entity-text::-webkit-scrollbar {
+    /*  Scroll bar width  */
+    width: 0.6em;
+    background: transparent;
+}
+
+.entity-text::-webkit-scrollbar-thumb {
+    /*  Scroll bar position indicator  */
+    background: #246dff;
+    border-radius: 0.3em;
+}
+
+.entity-desc{
+    font-size: 0.9em;
+}
+
+.graph-dropdown {
+    /*  Dropdown filters for graph  */
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    height: 4vh;
+}
+
+.graph-dropdown-btn {
+    /*  Dropdown filter button  */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.18), 0 3px 5px rgba(0, 0, 0, 0.28);
+    height: 4vh;
+    padding-top: 0;
+    font-size: 2vh;
+    padding-bottom: 0;
+    transition: all 0.5s cubic-bezier(.25, .8, .25, 1);
+    border-radius: 0;
+}
+
+.graph-div {
+    /*  Graph container div  */
+    height: 23vh;
+    margin: 2vh 0;
+    display: block;
+}
+
+.entity-comparison-dropdown {
+    /*  Dropdown for Selection(pairs and individual)  */
+    padding: 0;
+}
+
+.entity-title {
+    /*  Entity title for Comparison  */
+    border: 1px solid #cccccc;
+    background: #F0F0F0;
+    height: 4vh;
+    padding-top: 0.5vh;
+    font-size: 2vh;
+    box-sizing: border-box;
+}
+
+.versus-text {
+    /*  versus text  */
+    padding-top: 0.5vh;
+}
+
+.entity-comparison-dropdown-btn {
+    /*  Dropdown for Selection(pairs and individual) button */
+    height: 4vh;
+    padding-top: 0;
+    font-size: 2vh;
+    padding-bottom: 0;
+    border-radius: 0;
+}
+
+footer {
+    /*  Footer  */
+    border-top: 1px solid #cccccc;
+    width: 100%;
+    height: 5vh;
+    background: #F0F0F0;
+}
+
+.copyright {
+    overflow: none;
+    padding-top: 1vh;
+}
+
+.copyright p {
+    text-align: left;
+    color: black;
+    margin-bottom: 0px;
+}
+
+.bottom_ul {
+    list-style-type: none;
+    float: right;
+    margin-bottom: 0px;
+}
+
+
+
+.bottom_ul li a {
+    color: black;
+}
+
+.modal-header {
+    background: #fff;
+    font-size: 1.2em;
+    color: #246dff;
+}
+
+.playlist-modal-body {
+    height: 70vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.playlist-video {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    margin: 2vh 0;
+    cursor: pointer;
+    word-wrap: break-word;
+    height: 28vh;
+}
+
+.playlist-video img {
+    height: 18vh;
+}
+
+.playlist-video-text {
+    height: 10vh;
+    font-size: 0.75em;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    overflow-x: none;
+    overflow-y: auto;
+}
+
+.playlist-video-text h6 {
+    margin-bottom: 2px;
+}
+
+.playlist-video-text::-webkit-scrollbar {
+    width: 0em;
+}
+
+.playlist-video-text::-webkit-scrollbar {
+    width: 0.6em;
+    background: transparent;
+}
+
+.playlist-video-text::-webkit-scrollbar-thumb {
+    background: #246dff;
+    border-radius: 0.3em;
+}
+
+.playlist-video:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.playlist-modal-body::-webkit-scrollbar {
+    width: 0em;
+}
+
+.playlist-modal-body::-webkit-scrollbar {
+    width: 0.6em;
+    background: transparent;
+}
+
+.playlist-modal-body::-webkit-scrollbar-thumb {
+    background: #246dff;
+    border-radius: 0.3em;
+}
+
+
+/****************Preloader spinner*************/
+
+#loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2000;
+}
+
+#loader {
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #1980b3;
+    z-index: 2001;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+#loader:before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #3399cc;
+    -webkit-animation: spin 3s linear infinite;
+    animation: spin 3s linear infinite;
+}
+
+#loader:after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #70b7da;
+    -webkit-animation: spin 1.5s linear infinite;
+    animation: spin 1.5s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+/**************************spinner**************************/
+
+#loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2000;
+}
+
+#loader {
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #1980b3;
+    z-index: 2001;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+#loader:before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #3399cc;
+    -webkit-animation: spin 3s linear infinite;
+    animation: spin 3s linear infinite;
+}
+
+#loader:after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #70b7da;
+    -webkit-animation: spin 1.5s linear infinite;
+    animation: spin 1.5s linear infinite;
+}

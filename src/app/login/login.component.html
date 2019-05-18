@@ -1,0 +1,73 @@
+<div class="login">
+  <div class="login-screen">
+    <span class="logo"></span>
+    <div class="app-title">
+      <h1>Athena's Owl</h1>
+    </div>
+    <div class="login-form">
+      <form [formGroup]="form" role="form" (ngSubmit)="login()">
+        <div class="form-group">
+          <div class="input-group">
+            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+            <input placeholder="username" name="username" class="form-control" type="text" formControlName="username" [ngClass]="{'change-border':form.controls.username.touched && !form.controls.username.valid}"
+              required>
+          </div>
+        </div>
+          <div *ngIf="form.controls.username.touched && !form.controls.username.valid" class="notice">
+            *Username is required
+          </div>
+
+          <div class="form-group">
+            <div class="input-group">
+              <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+              <input placeholder="Password" class="form-control" type="password" formControlName="password" [ngClass]="{'change-border':form.controls.password.touched && !form.controls.password.valid}"
+                required>
+            </div>
+          </div>
+            <div *ngIf="form.controls.password.touched && !form.controls.password.valid" class="notice">
+              *Password is required
+            </div>
+            <button class="btn btn-primary btn-large btn-block" type="submit" [disabled]="!form.valid" (click)="showSpinner()">login</button>
+
+      </form>
+      <a class="login-link" data-toggle="modal" data-target="#forgotPassword">Forgot password?</a>
+      <!--
+        <p>Not a member? <a [routerLink]="['/register']"> click here</a> to register</p>
+       -->
+      <div *ngIf="loginUnsuccessful">
+        <p class="invalid-login">{{errorMessage}}</p>
+      </div>
+      </div>
+      </div>
+    </div>
+
+    <!-- Forgot Password Modal -->
+    <div class="modal modal-wide fade" id="forgotPassword" role="dialog" data-keyboard="false" data-backdrop="static">
+      <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-body">
+            <button type="button" class="close close-demo" data-dismiss="modal">&times;</button><br><br>
+            <div class="container-fluid">
+              <div class="login-form">
+                <form role="form">
+                  <div class="form-group">
+                    <div class="input-group">
+                      <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                      <input placeholder="Email" name="email" class="form-control" type="email" required/>
+                    </div>
+                  </div>
+                  <button class="btn btn-primary btn-large btn-block" data-dismiss="modal" type="button">SEND</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div *ngIf="spinnerFlag">
+      <div id="loader-wrapper">
+        <div id="loader"></div>
+      </div>
+    </div>
+    <div id="particles-js"></div>

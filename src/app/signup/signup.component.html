@@ -1,0 +1,128 @@
+<div *ngIf="!showOnlyMesssage" class="signup">
+  <div class="signup-screen">
+    <span class="logo"></span>
+    <div class="app-title">
+      <h1>Athena's Owl</h1>
+    </div>
+
+    <div class="signup-form">
+      <form [formGroup]="form" role="form" (ngSubmit)="signUp()">
+        <div class="row">
+          <div class="col-md-6 col-sm-6 col-xs-6 col-lg-6">
+            <div class="form-group">
+              <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                <input placeholder="First Name" class="form-control" type="text" formControlName="firstName" [ngClass]="{'change-border shake':form.controls.firstName.touched && !form.controls.firstName.valid}"
+                  required>
+              </div>
+              <div *ngIf="form.controls.firstName.touched && !form.controls.firstName.valid" class="notice">
+                Please enter your first name
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-sm-6 col-xs-6 col-lg-6">
+            <div class="form-group">
+              <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                <input placeholder="Last Name" class="form-control" type="text" formControlName="lastName" [ngClass]="{'change-border':form.controls.lastName.touched && !form.controls.lastName.valid}"
+                  required>
+              </div>
+              <div *ngIf="form.controls.lastName.touched && !form.controls.lastName.valid" class="notice">
+                Please enter your last name
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12">
+            <div class="input-group">
+              <span class="input-group-addon"><i class="fa fa-briefcase"></i></span>
+              <input placeholder="Organization" class="form-control" type="text" formControlName="organization" [ngClass]="{'change-border':form.controls.organization.touched && !form.controls.organization.valid}">
+            </div>
+            <div *ngIf="form.controls.organization.touched && !form.controls.organization.valid" class="notice">
+              Please enter your organization
+            </div>
+          </div>
+        </div>
+        <br>
+
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12">
+            <div class="input-group">
+              <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+              <input placeholder="Email" class="form-control" type="email" formControlName="emailId" [ngClass]="{'change-border':form.controls.emailId.dirty && !form.controls.emailId.valid}"
+                required>
+            </div>
+            <div *ngIf="form.controls.emailId.dirty && !form.controls.emailId.valid" class="notice">
+              Email Invalid
+            </div>
+          </div>
+        </div>
+        <br>
+
+        <div class="row">
+          <div class="col-md-6 col-sm-6 col-xs-6 col-lg-6">
+            <div class="input-group">
+              <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+              <input placeholder="Enter Password" class="form-control" type="password" formControlName="password" [ngClass]="{'change-border':form.controls.password.dirty && !form.controls.password.valid}"
+                maxlength="20">
+            </div>
+            <div *ngIf="form.controls.password.dirty &&
+!form.controls.password.valid" class="notice">
+              Invalid Password
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-6 col-lg-6">
+            <div class="input-group">
+              <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+              <input placeholder="Confirm Password" class="form-control" type="password" formControlName="confirmPassword" [ngClass]="{'change-border':form.controls.password.touched && form.controls['password'].value!=form.controls['confirmPassword'].value}"
+                maxlength="20"/>
+            </div>
+            <div *ngIf="form.controls['password'].value!=form.controls['confirmPassword'].value" class="notice">
+              Passwords do not match
+            </div>
+          </div>
+        </div>
+        <br>
+
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12">
+            <div class="input-group">
+              <span class="input-group-addon"><i class="fa fa-key" aria-hidden="true"></i></span>
+              <input placeholder="Enter 16 digits key" class="form-control" type="text" formControlName="sceretAccessKey" [ngClass]="{'change-border':form.controls.sceretAccessKey.dirty && !form.controls.sceretAccessKey.valid}"
+                maxlength="16"/>
+            </div>
+            <div *ngIf="form.controls.sceretAccessKey.dirty && !form.controls.sceretAccessKey.valid" class="notice">
+              Invalid Access Key
+            </div>
+          </div>
+        </div>
+
+        <div class="text-center">
+          <p class="signup-response">{{signupMessage}}</p>
+        </div>
+
+        <div class="text-center">
+          <button class="btn btn-primary" (click)="showSpinner()" [disabled]="!form.valid || form.controls['password'].value!=form.controls['confirmPassword'].value">SIGN UP</button>
+        </div>
+      </form>
+
+      <p class="text-center">Already have an account? Click here to <a [routerLink]="['/login']"> log in</a>.</p>
+    </div>
+  </div>
+</div>
+<div *ngIf="showOnlyMesssage" class="success-message">
+  <h5 class="text-center">You have been successfully registered in out system. Your username is<span class="data"> {{username}}</span>. Your password
+    has been mailed to<span class="data"> {{form.controls['emailId'].value}}</span></h5>
+  <a [routerLink]="['/login']"><button class="btn btn-primary" type="button">LOG IN</button></a>
+</div>
+<div *ngIf="flag">
+  <div id="loader-wrapper">
+    <div id="loader"></div>
+  </div>
+</div>
+
+
+<div id="particles-js"></div>

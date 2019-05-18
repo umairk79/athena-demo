@@ -1,0 +1,109 @@
+.navbar .navbar-custom {
+    
+    border: none;
+    border-radius: 0;
+}
+
+.navbar{
+    background: #f0f0f0;
+    border-bottom: 1px solid #ccc;
+    height: 8vh;
+    padding-top: 0.3vh;
+}
+
+li{
+    cursor:pointer;
+}
+
+
+.navbar-container {
+    padding-left: 1.8vw;
+    padding-right: 1.8vw;
+}
+
+.navbar-custom .navbar-brand {
+    color: #246dff;
+    font-size: 300%;
+    font-weight: bold;
+}
+
+.navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand.active {
+    color: #246dff;
+}
+
+.navbar-custom .navbar-collapse {
+    border-color: rgba(255, 255, 255, 0.02);
+}
+
+.navbar-custom .navbar-toggle {
+    background-color: #246dff;
+    border-color: #246dff;
+    /*text-transform: uppercase;*/
+    color: white;
+    /*font-size: 12px;*/
+}
+
+.navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus {
+    background-color: #246dff;
+}
+
+.navbar-custom .nav li a {
+    /*text-transform: uppercase;*/
+    letter-spacing: 1px;
+    color: gray;
+    font-size: 1.2em;
+}
+
+.navbar-custom .nav li .user{
+    background-color: transparent;
+}
+
+.navbar-custom .nav li .user-dropdown-menu{
+    zoom: 0.9;
+    text-align: center;
+}
+
+/**************Navbar links on hover***************/
+
+.navbar-custom .nav li a:after {
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0px;
+    background: transparent;
+    transition: width .5s ease, background-color .5s ease;
+}
+
+.navbar-custom .nav li a:hover:after {
+    width: 70%;
+    background: #246dff;
+}
+
+.navbar-custom .nav li a:hover {
+    color: #246dff;
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; 
+ }
+
+
+/**************Navbar links on active***************/
+
+.navbar-custom .nav li a:focus {
+    color: #246dff;
+    outline: none;
+    -webkit-transition-duration: 0.7s;
+    transition-duration: 0.7s;
+}
+
+
+.unclick {
+    pointer-events: none;
+    cursor: default;
+    
+}

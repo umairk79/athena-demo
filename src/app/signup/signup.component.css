@@ -1,0 +1,292 @@
+/**************************Signup Form**************************/
+
+* {
+    box-sizing: border-box;
+}
+
+*:focus {
+    outline: none;
+}
+
+.signup {
+    -webkit-animation: fadein 1s;
+    animation: fadein 1s;
+    width: 600px;
+    padding: 4% 0 4%;
+    margin: auto;
+}
+
+.signup-screen {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 9px 15px 0 rgba(0, 0, 0, 0.3);
+}
+
+.app-title {
+    text-align: center;
+    color: #777;
+    top: 0;
+}
+
+.signup-form {
+    text-align: center;
+}
+
+.control-group {
+    margin-bottom: 10px;
+}
+
+.input-group-addon {
+    background: white;
+}
+
+input {
+    background-color: white;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 10px 0;
+    padding-left: 3px;
+    width: 250px;
+    transition: border .5s;
+}
+
+.btn {
+    border: 2px solid transparent;
+    background: #246dff;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 6px 0;
+    text-decoration: none;
+    text-shadow: none;
+    border-radius: 3px;
+    box-shadow: none;
+    transition: 0.25s;
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background-color: #246dff;
+}
+
+p {
+    margin-top: 25px;
+}
+
+a {
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+}
+
+.notice {
+    color: #d35555;
+    text-align: right;
+}
+
+.change-border {
+    border-color: #d35555;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 3px rgba(212, 25, 22, 1);
+    animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+}
+
+
+/**************************Display message after signup click**************************/
+
+.success-message {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px #888888;
+    -webkit-animation: fadein 1s;
+    animation: fadein 1s;
+    z-index: 1;
+}
+
+.data {
+    color: #246dff;
+}
+
+
+/**************************particles.js container**************************/
+
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: -1;
+}
+
+
+/**************************spinner**************************/
+
+#loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2000;
+}
+
+#loader {
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #1980b3;
+    z-index: 2001;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+#loader:before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #3399cc;
+    -webkit-animation: spin 3s linear infinite;
+    animation: spin 3s linear infinite;
+}
+
+#loader:after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #70b7da;
+    -webkit-animation: spin 1.5s linear infinite;
+    animation: spin 1.5s linear infinite;
+}
+
+
+/**************************Animations Keyframes**************************/
+
+
+/*Fade in for form*/
+
+@-webkit-keyframes fadein {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fadein {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+
+/*Shake for form input*/
+
+@keyframes shake {
+    10%, 90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    20%, 80% {
+        transform: translate3d(2px, 0, 0);
+    }
+    30%, 50%, 70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+    40%, 60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+
+
+/*spin for loader after signup click*/
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+
+/**************************Media Queries**************************/
+
+@media (min-width: 320px) and (max-width: 350px) {
+    .signup {
+        width: 310px !important;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 500px) {
+    .signup {
+        width: 90% !important;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 600px) {
+    .signup {
+        width: 90% !important;
+    }
+}
+
+@media (min-width: 550px) and (max-width: 991px) {
+    .signup {
+        width: 70% !important;
+        height: 90% !important;
+        margin: auto !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 992px) {
+    .success-message {
+        width: 95% !important;
+    }
+}

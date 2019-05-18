@@ -1,0 +1,144 @@
+mat-slider-thumb-label-text {
+    font-size: 12px;
+    font-weight: 500
+}
+
+.mat-slider-track-background {
+    background-color: rgba(255, 255, 255, .3)
+}
+
+.mat-primary .mat-slider-thumb, .mat-primary .mat-slider-thumb-label, .mat-primary .mat-slider-track-fill {
+    background-color: #246dff;
+}
+
+
+/* This */
+
+.mat-primary .mat-slider-thumb-label-text {
+    color: rgba(255, 255, 255, .87)
+}
+
+.mat-accent .mat-slider-thumb, .mat-accent .mat-slider-thumb-label, .mat-accent .mat-slider-track-fill {
+    background-color: #b0bec5
+}
+
+.mat-accent .mat-slider-thumb-label-text {
+    color: rgba(0, 0, 0, .87)
+}
+
+.mat-warn .mat-slider-thumb, .mat-warn .mat-slider-thumb-label, .mat-warn .mat-slider-track-fill {
+    background-color: #f44336
+}
+
+.mat-warn .mat-slider-thumb-label-text {
+    color: #fff
+}
+
+.mat-slider-focus-ring {
+    background-color: rgba(176, 190, 197, .2)
+}
+
+.cdk-focused .mat-slider-track-background, .mat-slider:hover .mat-slider-track-background {
+    background-color: #cccccc;
+}
+
+
+/* This */
+
+.mat-slider-disabled .mat-slider-thumb, .mat-slider-disabled .mat-slider-track-background, .mat-slider-disabled .mat-slider-track-fill {
+    background-color: rgba(255, 255, 255, .3)
+}
+
+.mat-slider-disabled:hover .mat-slider-track-background {
+    background-color: rgba(255, 255, 255, .3)
+}
+
+.mat-slider-min-value .mat-slider-focus-ring {
+    background-color: rgba(255, 255, 255, .12)
+}
+
+.mat-slider-min-value.mat-slider-thumb-label-showing .mat-slider-thumb, .mat-slider-min-value.mat-slider-thumb-label-showing .mat-slider-thumb-label {
+    background-color: #fff
+}
+
+.mat-slider-min-value.mat-slider-thumb-label-showing.cdk-focused .mat-slider-thumb, .mat-slider-min-value.mat-slider-thumb-label-showing.cdk-focused .mat-slider-thumb-label {
+    background-color: rgba(255, 255, 255, .3)
+}
+
+.mat-slider-min-value:not(.mat-slider-thumb-label-showing) .mat-slider-thumb {
+    border-color: rgba(255, 255, 255, .3);
+    background-color: #246dff
+}
+
+
+/* This */
+
+.mat-slider-min-value:not(.mat-slider-thumb-label-showing).cdk-focused .mat-slider-thumb, .mat-slider-min-value:not(.mat-slider-thumb-label-showing):hover .mat-slider-thumb {
+    border-color: rgba(255, 255, 255, .3)
+}
+
+.mat-slider-min-value:not(.mat-slider-thumb-label-showing).cdk-focused.mat-slider-disabled .mat-slider-thumb, .mat-slider-min-value:not(.mat-slider-thumb-label-showing):hover.mat-slider-disabled .mat-slider-thumb {
+    border-color: rgba(255, 255, 255, .3)
+}
+
+.mat-slider-has-ticks .mat-slider-wrapper::after {
+    border-color: rgba(255, 255, 255, .7)
+}
+
+.mat-slider-horizontal .mat-slider-ticks {
+    background-image: repeating-linear-gradient(to right, rgba(255, 255, 255, .7), rgba(255, 255, 255, .7) 2px, transparent 0, transparent);
+    background-image: -moz-repeating-linear-gradient(.0001deg, rgba(255, 255, 255, .7), rgba(255, 255, 255, .7) 2px, transparent 0, transparent)
+}
+
+.mat-slider-vertical .mat-slider-ticks {
+    background-image: repeating-linear-gradient(to bottom, rgba(255, 255, 255, .7), rgba(255, 255, 255, .7) 2px, transparent 0, transparent)
+}
+
+.mat-tab-header, .mat-tab-nav-bar {
+    border-bottom: 1px solid rgba(255, 255, 255, .12)
+}
+
+.mat-tab-group-inverted-header .mat-tab-header, .mat-tab-group-inverted-header .mat-tab-nav-bar {
+    border-top: 1px solid rgba(255, 255, 255, .12);
+    border-bottom: none
+}
+
+.mat-tab-label:focus {
+    background-color: rgba(233, 30, 99, .3)
+}
+
+.mat-ink-bar {
+    background-color: #c2185b
+}
+
+.mat-tab-label, .mat-tab-link {
+    color: #fff
+}
+
+.mat-tab-label.mat-tab-disabled, .mat-tab-link.mat-tab-disabled {
+    color: rgba(255, 255, 255, .3)
+}
+
+.mat-toolbar {
+    background: #212121;
+    color: #fff
+}
+
+.mat-toolbar.mat-primary {
+    background: #c2185b;
+    color: rgba(255, 255, 255, .87)
+}
+
+.mat-toolbar.mat-accent {
+    background: #b0bec5;
+    color: rgba(0, 0, 0, .87)
+}
+
+.mat-toolbar.mat-warn {
+    background: #f44336;
+    color: #fff
+}
+
+.mat-tooltip {
+    background: rgba(97, 97, 97, .9)
+}

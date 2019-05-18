@@ -1,0 +1,1319 @@
+,duration,object,caption,prob
+0,0,,a black and white photo of a clock tower .,0.000709
+1,1,,a black and white photo of a clock tower .,0.000709
+2,2,cup_0.69;potted plant_0.77;dining table_0.49;book_0.72;bottle_0.73;chair_0.98;vase_0.65,a group of people standing around a kitchen .,0.002529
+3,3,cup_0.69;potted plant_0.77;dining table_0.49;book_0.72;bottle_0.73;chair_0.98;vase_0.65,a group of people standing around a kitchen .,0.002529
+4,4,cup_0.76;potted plant_0.60;oven_0.77;fork_0.89;bicycle_0.76;wine glass_0.98;baseball glove_0.48;book_0.71;bottle_0.76;chair_0.40;cell phone_0.67;handbag_0.81;vase_0.95,a man standing in front of a mirror in a bathroom .,0.000238
+5,5,cup_0.76;potted plant_0.60;oven_0.77;fork_0.89;bicycle_0.76;wine glass_0.98;baseball glove_0.48;book_0.71;bottle_0.76;chair_0.40;cell phone_0.67;handbag_0.81;vase_0.95,a man standing in front of a mirror in a bathroom .,0.000238
+6,6,cup_0.76;potted plant_0.60;oven_0.77;fork_0.89;bicycle_0.76;wine glass_0.98;baseball glove_0.48;book_0.71;bottle_0.76;chair_0.40;cell phone_0.67;handbag_0.81;vase_0.95,a man standing in front of a mirror in a bathroom .,0.000238
+7,7,cup_0.76;potted plant_0.60;oven_0.77;fork_0.89;bicycle_0.76;wine glass_0.98;baseball glove_0.48;book_0.71;bottle_0.76;chair_0.40;cell phone_0.67;handbag_0.81;vase_0.95,a man standing in front of a mirror in a bathroom .,0.000238
+8,8,cup_0.76;potted plant_0.60;oven_0.77;fork_0.89;bicycle_0.76;wine glass_0.98;baseball glove_0.48;book_0.71;bottle_0.76;chair_0.40;cell phone_0.67;handbag_0.81;vase_0.95,a man standing in front of a mirror in a bathroom .,0.000238
+9,9,cup_0.76;potted plant_0.60;oven_0.77;fork_0.89;bicycle_0.76;wine glass_0.98;baseball glove_0.48;book_0.71;bottle_0.76;chair_0.40;cell phone_0.67;handbag_0.81;vase_0.95,a man standing in front of a mirror in a bathroom .,0.000238
+10,10,cup_0.76;potted plant_0.60;oven_0.77;fork_0.89;bicycle_0.76;wine glass_0.98;baseball glove_0.48;book_0.71;bottle_0.76;chair_0.40;cell phone_0.67;handbag_0.81;vase_0.95,a man standing in front of a mirror in a bathroom .,0.000238
+11,11,cup_0.76;potted plant_0.60;oven_0.77;fork_0.89;bicycle_0.76;wine glass_0.98;baseball glove_0.48;book_0.71;bottle_0.76;chair_0.40;cell phone_0.67;handbag_0.81;vase_0.95,a man standing in front of a mirror in a bathroom .,0.000238
+12,12,clock_0.50;cup_0.93;potted plant_0.81;sink_0.73;wine glass_0.78;bottle_0.69;book_0.53;cell phone_0.62;bowl_0.51;vase_0.99,a group of people standing around each other .,0.001922
+13,13,potted plant_0.76;fork_0.55;oven_0.92;wine glass_0.64;book_0.59;bottle_0.74;cell phone_0.69;vase_0.92,a group of people standing around a table .,0.000784
+14,14,potted plant_0.76;fork_0.55;oven_0.92;wine glass_0.64;book_0.59;bottle_0.74;cell phone_0.69;vase_0.92,a group of people standing around a table .,0.000784
+15,15,toothbrush_0.58;chair_0.35,a man is holding a glass of wine .,0.000588
+16,16,toothbrush_0.58;chair_0.35,a man is holding a glass of wine .,0.000588
+17,17,bottle_0.39;clock_0.77;chair_0.89;bicycle_0.76;fork_0.57,a man and a woman standing next to each other .,0.001291
+18,18,bottle_0.39;clock_0.77;chair_0.89;bicycle_0.76;fork_0.57,a man and a woman standing next to each other .,0.001291
+19,19,cup_0.44;dining table_0.54;oven_0.89;bottle_0.60;chair_1.00;refrigerator_1.00;bowl_0.92,a group of people standing around a kitchen .,0.002316
+20,20,cup_0.44;dining table_0.54;oven_0.89;bottle_0.60;chair_1.00;refrigerator_1.00;bowl_0.92,a group of people standing around a kitchen .,0.002316
+21,21,cup_0.44;dining table_0.54;oven_0.89;bottle_0.60;chair_1.00;refrigerator_1.00;bowl_0.92,a group of people standing around a kitchen .,0.002316
+22,22,suitcase_0.52;book_0.50;chair_0.89;vase_0.55;potted plant_0.56,a woman holding a nintendo wii game controller .,0.008532
+23,23,suitcase_0.52;book_0.50;chair_0.89;vase_0.55;potted plant_0.56,a woman holding a nintendo wii game controller .,0.008532
+24,24,suitcase_0.52;book_0.50;chair_0.89;vase_0.55;potted plant_0.56,a woman holding a nintendo wii game controller .,0.008532
+25,25,suitcase_0.52;book_0.50;chair_0.89;vase_0.55;potted plant_0.56,a woman holding a nintendo wii game controller .,0.008532
+26,26,chair_0.64;bench_0.73;potted plant_0.99;bed_0.55,a man and a woman standing next to each other .,0.000184
+27,27,chair_0.64;bench_0.73;potted plant_0.99;bed_0.55,a man and a woman standing next to each other .,0.000184
+28,28,chair_0.64;bench_0.73;potted plant_0.99;bed_0.55,a man and a woman standing next to each other .,0.000184
+29,29,wine glass_0.92,a group of people standing next to each other .,0.002457
+30,30,cup_0.49;fork_0.62;bottle_0.70;chair_0.58;cell phone_0.88;vase_0.65,a man and a woman standing next to each other .,0.000289
+31,31,cup_0.49;fork_0.62;bottle_0.70;chair_0.58;cell phone_0.88;vase_0.65,a man and a woman standing next to each other .,0.000289
+32,32,cup_0.49;fork_0.62;bottle_0.70;chair_0.58;cell phone_0.88;vase_0.65,a man and a woman standing next to each other .,0.000289
+33,33,couch_0.65;chair_0.88,a man and a woman standing next to each other .,0.000778
+34,34,couch_0.65;chair_0.88,a man and a woman standing next to each other .,0.000778
+35,35,couch_0.65;chair_0.88,a man and a woman standing next to each other .,0.000778
+36,36,clock_0.51;fork_0.44;wine glass_0.88;book_0.54;bottle_0.47;chair_0.61;cell phone_0.55;vase_0.44,a group of people standing around each other .,0.000687
+37,37,,a man and a woman standing next to each other .,0.000679
+38,38,,a man and a woman standing next to each other .,0.000679
+39,39,cup_0.79;sink_0.79;banana_0.81;wine glass_0.99;bottle_0.92;refrigerator_0.98,a woman holding a glass of wine in a kitchen .,0.000135
+40,40,cup_0.79;sink_0.79;banana_0.81;wine glass_0.99;bottle_0.92;refrigerator_0.98,a woman holding a glass of wine in a kitchen .,0.000135
+41,41,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+42,42,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+43,43,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+44,44,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+45,45,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+46,46,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+47,47,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+48,48,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+49,49,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+50,50,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+51,51,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+52,52,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+53,53,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+54,54,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+55,55,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+56,56,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+57,57,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+58,58,potted plant_0.99;couch_0.57;bench_0.79;cat_0.49;bottle_0.54;tie_0.86;chair_0.93;bed_0.89,a woman sitting on a bench in front of a building .,0.000287
+59,59,bottle_0.72;wine glass_0.96,a group of men standing next to each other .,0.007404
+60,60,potted plant_0.99;bench_0.58;bottle_0.58;tie_0.99;chair_0.57;bed_0.58,a woman sitting on a bench talking on a cell phone .,0.001626
+61,61,potted plant_0.99;bench_0.58;bottle_0.58;tie_0.99;chair_0.57;bed_0.58,a woman sitting on a bench talking on a cell phone .,0.001626
+62,62,potted plant_0.99;bench_0.58;bottle_0.58;tie_0.99;chair_0.57;bed_0.58,a woman sitting on a bench talking on a cell phone .,0.001626
+63,63,couch_0.79;bottle_0.55;chair_0.99;handbag_0.62;potted plant_0.44,a man and a woman standing next to each other .,0.001226
+64,64,couch_0.79;bottle_0.55;chair_0.99;handbag_0.62;potted plant_0.44,a man and a woman standing next to each other .,0.001226
+65,65,couch_0.79;bottle_0.55;chair_0.99;handbag_0.62;potted plant_0.44,a man and a woman standing next to each other .,0.001226
+66,66,couch_0.79;bottle_0.55;chair_0.99;handbag_0.62;potted plant_0.44,a man and a woman standing next to each other .,0.001226
+67,67,couch_0.79;bottle_0.55;chair_0.99;handbag_0.62;potted plant_0.44,a man and a woman standing next to each other .,0.001226
+68,68,cup_0.45;dining table_0.71;potted plant_0.50;couch_0.92;wine glass_0.54;bottle_0.80;book_0.69;chair_0.98;refrigerator_0.79;vase_0.40,a group of people standing around a kitchen .,0.002376
+69,69,traffic light_0.49;clock_0.99;stop sign_0.58,a group of people standing on top of a street .,4.30E-05
+70,70,bottle_0.61;clock_0.97;traffic light_0.55,a group of people standing in front of a tall building .,7.20E-05
+71,71,bottle_0.61;clock_0.97;traffic light_0.55,a group of people standing in front of a tall building .,7.20E-05
+72,72,teddy bear_0.46;umbrella_0.81;bench_0.45,a group of people standing next to each other .,0.000828
+73,73,teddy bear_0.46;umbrella_0.81;bench_0.45,a group of people standing next to each other .,0.000828
+74,74,cup_0.40;potted plant_0.66;car_0.48;cake_0.57;tie_0.91;chair_0.40;vase_0.58,a man and woman standing next to each other .,0.001935
+75,75,cup_0.40;potted plant_0.66;car_0.48;cake_0.57;tie_0.91;chair_0.40;vase_0.58,a man and woman standing next to each other .,0.001935
+76,76,couch_0.82;chair_0.42;dining table_0.45,a woman sitting on a couch holding a wii remote .,0.001664
+77,77,,a woman is holding a wii remote in her hand .,0.000214
+78,78,,a woman is holding a wii remote in her hand .,0.000214
+79,79,tv_0.98,a woman in a white shirt and black tie,5.80E-05
+80,80,,a group of people standing around each other .,0.000203
+81,81,bottle_0.92;cup_0.47;refrigerator_0.64;vase_0.95;potted plant_0.88,a woman holding a cell phone in her hand .,0.000288
+82,82,dining table_0.38,a woman sitting on a couch holding a cell phone .,0.000647
+83,83,,a woman is holding a cell phone to her ear .,0.000225
+84,84,couch_0.87;book_0.40;bowl_0.47;bed_0.56,a man standing in a living room holding a nintendo wii game controller .,0.00038
+85,85,potted plant_0.71;dining table_0.76;couch_0.40;microwave_0.52;book_0.81;chair_0.99;refrigerator_0.66;bowl_0.40;vase_0.94,a couple of people that are sitting at a table,0.000871
+86,86,potted plant_0.71;dining table_0.76;couch_0.40;microwave_0.52;book_0.81;chair_0.99;refrigerator_0.66;bowl_0.40;vase_0.94,a couple of people that are sitting at a table,0.000871
+87,87,potted plant_0.53;car_0.70,a woman holding a teddy bear in a room .,5.20E-05
+88,88,book_0.53;bottle_0.80;cup_0.66,a man in a suit talking on a cell phone .,0.001409
+89,89,bottle_0.54,a man holding a nintendo wii game controller .,0.006175
+90,90,bottle_0.47,a man and a woman standing in the water .,4.60E-05
+91,91,couch_0.66;chair_1.00;bed_0.58,a man sitting on a couch holding a nintendo wii controller .,0.000806
+92,92,bowl_0.53;chair_0.85,a man sitting on a couch holding a wii controller .,0.001786
+93,93,,a man in a suit and tie standing next to a woman .,0.000189
+94,94,,a man in a suit and tie standing on a sidewalk .,4.00E-05
+95,95,,a man in a suit and tie standing on a sidewalk .,4.00E-05
+96,96,,a man is holding a video game controller,0.001128
+97,97,tie_0.98;dog_0.61,a man and a woman standing next to each other .,0.001295
+98,98,cup_0.43;oven_0.99;backpack_0.53;microwave_0.41;bottle_0.87;chair_0.64;refrigerator_0.97;bed_0.57,a man standing in a kitchen next to a refrigerator .,0.0014
+99,99,couch_0.86;dining table_0.54;cup_0.36;potted plant_0.78;bed_0.52,a group of people sitting around a table .,0.000436
+100,100,couch_0.86;dining table_0.54;cup_0.36;potted plant_0.78;bed_0.52,a group of people sitting around a table .,0.000436
+101,101,cake_0.43;bottle_0.39,a statue of a man sitting on top of a bench .,7.00E-06
+102,102,cake_0.43;bottle_0.39,a statue of a man sitting on top of a bench .,7.00E-06
+103,103,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+104,104,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+105,105,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+106,106,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+107,107,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+108,108,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+109,109,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+110,110,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+111,111,cup_0.37;dining table_0.88;potted plant_0.90;couch_0.63;umbrella_0.43;wine glass_0.53;car_0.70;tv_0.48;book_0.74;chair_0.83;train_0.49;traffic light_0.78;handbag_0.43;vase_0.42,a man sitting on a bench in front of a store .,5.10E-05
+112,112,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+113,113,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+114,114,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+115,115,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+116,116,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+117,117,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+118,118,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+119,119,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+120,120,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+121,121,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+122,122,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+123,123,cup_0.79;knife_0.74;potted plant_0.49;couch_0.97;wine glass_0.97;teddy bear_0.47;bottle_0.86;tie_0.93;book_0.60;vase_0.61,a man and a woman sitting on a bench .,0.000469
+124,124,cup_0.72;wine glass_0.90,a woman holding a cell phone in her hand .,0.000918
+125,125,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+126,126,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+127,127,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+128,128,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+129,129,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+130,130,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+131,131,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+132,132,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+133,133,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+134,134,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+135,135,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+136,136,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+137,137,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+138,138,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+139,139,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+140,140,cup_0.92;potted plant_0.84;couch_0.86;wine glass_0.94;bottle_0.94;book_0.43;handbag_0.38;vase_0.95,a man and a woman standing next to each other .,0.000477
+141,141,cup_0.67;dining table_0.75;potted plant_0.88;couch_0.81;bench_0.36;wine glass_0.66;tv_0.88;chair_0.61;vase_0.60,a group of people sitting around a wooden table .,0.00232
+142,142,cup_0.67;dining table_0.75;potted plant_0.88;couch_0.81;bench_0.36;wine glass_0.66;tv_0.88;chair_0.61;vase_0.60,a group of people sitting around a wooden table .,0.00232
+143,143,suitcase_0.42;teddy bear_0.45;cup_0.88;wine glass_1.00;remote_0.81,a woman holding a nintendo wii game controller .,0.005216
+144,144,suitcase_0.42;teddy bear_0.45;cup_0.88;wine glass_1.00;remote_0.81,a woman holding a nintendo wii game controller .,0.005216
+145,145,suitcase_0.42;teddy bear_0.45;cup_0.88;wine glass_1.00;remote_0.81,a woman holding a nintendo wii game controller .,0.005216
+146,146,suitcase_0.42;teddy bear_0.45;cup_0.88;wine glass_1.00;remote_0.81,a woman holding a nintendo wii game controller .,0.005216
+147,147,suitcase_0.42;teddy bear_0.45;cup_0.88;wine glass_1.00;remote_0.81,a woman holding a nintendo wii game controller .,0.005216
+148,148,couch_0.86;bottle_0.87;wine glass_0.99,a group of people sitting on a couch .,0.002761
+149,149,cup_0.78;dining table_0.50;potted plant_0.66;couch_0.68;wine glass_0.64;chair_0.63;vase_0.61,a woman sitting at a table with a plate of food .,0.000469
+150,150,cup_0.78;dining table_0.50;potted plant_0.66;couch_0.68;wine glass_0.64;chair_0.63;vase_0.61,a woman sitting at a table with a plate of food .,0.000469
+151,151,cup_0.78;dining table_0.50;potted plant_0.66;couch_0.68;wine glass_0.64;chair_0.63;vase_0.61,a woman sitting at a table with a plate of food .,0.000469
+152,152,suitcase_0.64;cup_0.83,a woman standing in a room with a remote .,0.00021
+153,153,suitcase_0.64;cup_0.83,a woman standing in a room with a remote .,0.00021
+154,154,suitcase_0.64;cup_0.83,a woman standing in a room with a remote .,0.00021
+155,155,suitcase_0.64;cup_0.83,a woman standing in a room with a remote .,0.00021
+156,156,couch_0.90;cup_0.58;wine glass_0.92;vase_0.38,a woman and a girl are sitting at a table,3.90E-05
+157,157,tv_0.89;couch_0.44;oven_0.39;cup_0.66;wine glass_0.83,a woman sitting at a table with a glass of wine .,0.000753
+158,158,tv_0.89;couch_0.44;oven_0.39;cup_0.66;wine glass_0.83,a woman sitting at a table with a glass of wine .,0.000753
+159,159,tv_0.89;couch_0.44;oven_0.39;cup_0.66;wine glass_0.83,a woman sitting at a table with a glass of wine .,0.000753
+160,160,cup_0.94;potted plant_0.85;couch_0.77;wine glass_0.36;bottle_0.86;chair_0.47;vase_0.96,a group of people sitting around a table .,0.000968
+161,161,cup_0.94;potted plant_0.85;couch_0.77;wine glass_0.36;bottle_0.86;chair_0.47;vase_0.96,a group of people sitting around a table .,0.000968
+162,162,cup_0.94;potted plant_0.85;couch_0.77;wine glass_0.36;bottle_0.86;chair_0.47;vase_0.96,a group of people sitting around a table .,0.000968
+163,163,cup_0.94;potted plant_0.85;couch_0.77;wine glass_0.36;bottle_0.86;chair_0.47;vase_0.96,a group of people sitting around a table .,0.000968
+164,164,cup_0.58,a woman standing in a room with a remote .,0.000551
+165,165,cup_0.90;potted plant_0.81;dining table_0.78;couch_0.98;bench_0.49;wine glass_0.53;tv_0.99;book_0.91;bottle_0.82;chair_0.93;pizza_0.71;bowl_0.85;vase_0.92,a group of people sitting around a wooden table .,0.002913
+166,166,cup_0.90;potted plant_0.81;dining table_0.78;couch_0.98;bench_0.49;wine glass_0.53;tv_0.99;book_0.91;bottle_0.82;chair_0.93;pizza_0.71;bowl_0.85;vase_0.92,a group of people sitting around a wooden table .,0.002913
+167,167,cup_0.90;potted plant_0.81;dining table_0.78;couch_0.98;bench_0.49;wine glass_0.53;tv_0.99;book_0.91;bottle_0.82;chair_0.93;pizza_0.71;bowl_0.85;vase_0.92,a group of people sitting around a wooden table .,0.002913
+168,168,cup_0.90;potted plant_0.81;dining table_0.78;couch_0.98;bench_0.49;wine glass_0.53;tv_0.99;book_0.91;bottle_0.82;chair_0.93;pizza_0.71;bowl_0.85;vase_0.92,a group of people sitting around a wooden table .,0.002913
+169,169,cup_0.90;potted plant_0.81;dining table_0.78;couch_0.98;bench_0.49;wine glass_0.53;tv_0.99;book_0.91;bottle_0.82;chair_0.93;pizza_0.71;bowl_0.85;vase_0.92,a group of people sitting around a wooden table .,0.002913
+170,170,cup_0.90;potted plant_0.81;dining table_0.78;couch_0.98;bench_0.49;wine glass_0.53;tv_0.99;book_0.91;bottle_0.82;chair_0.93;pizza_0.71;bowl_0.85;vase_0.92,a group of people sitting around a wooden table .,0.002913
+171,171,chair_0.90;dining table_0.65,a group of people standing in a room .,0.001991
+172,172,cup_0.70;sink_0.88;dining table_0.80;couch_0.58;wine glass_0.45;bottle_0.66;chair_1.00,a group of people standing around a kitchen .,0.001696
+173,173,cup_0.70;sink_0.88;dining table_0.80;couch_0.58;wine glass_0.45;bottle_0.66;chair_1.00,a group of people standing around a kitchen .,0.001696
+174,174,cup_0.70;sink_0.88;dining table_0.80;couch_0.58;wine glass_0.45;bottle_0.66;chair_1.00,a group of people standing around a kitchen .,0.001696
+175,175,,a man standing in front of a wall holding a skateboard .,7.10E-05
+176,176,,a man standing in front of a wall holding a skateboard .,7.10E-05
+177,177,bottle_0.35;cup_0.55,a group of people standing next to each other .,0.001507
+178,178,bottle_0.35;cup_0.55,a group of people standing next to each other .,0.001507
+179,179,bottle_0.35;cup_0.55,a group of people standing next to each other .,0.001507
+180,180,bottle_0.35;cup_0.55,a group of people standing next to each other .,0.001507
+181,181,book_0.83;vase_0.72;potted plant_0.94,a man in a suit and tie standing in a room .,3.00E-05
+182,182,book_0.83;vase_0.72;potted plant_0.94,a man in a suit and tie standing in a room .,3.00E-05
+183,183,book_0.83;vase_0.72;potted plant_0.94,a man in a suit and tie standing in a room .,3.00E-05
+184,184,sink_0.53;dining table_0.74;wine glass_0.99;bottle_0.96;tie_0.38;chair_0.99;clock_0.51;handbag_0.63,a group of people standing around a table .,0.00469
+185,185,sink_0.53;dining table_0.74;wine glass_0.99;bottle_0.96;tie_0.38;chair_0.99;clock_0.51;handbag_0.63,a group of people standing around a table .,0.00469
+186,186,sink_0.53;dining table_0.74;wine glass_0.99;bottle_0.96;tie_0.38;chair_0.99;clock_0.51;handbag_0.63,a group of people standing around a table .,0.00469
+187,187,couch_0.40;chair_0.59,a couple of women standing next to each other .,0.004905
+188,188,couch_0.40;chair_0.59,a couple of women standing next to each other .,0.004905
+189,189,couch_0.40;chair_0.59,a couple of women standing next to each other .,0.004905
+190,190,dining table_0.51;sink_0.91;wine glass_0.98;bottle_0.90;tie_0.37;chair_0.99;clock_0.63,a group of people standing around a table .,0.003301
+191,191,book_0.75;cup_0.61;vase_0.86;potted plant_0.98,a woman standing in front of a christmas tree .,0.000778
+192,192,book_0.75;cup_0.61;vase_0.86;potted plant_0.98,a woman standing in front of a christmas tree .,0.000778
+193,193,cup_0.85;dining table_0.91;sink_0.85;wine glass_0.98;microwave_0.66;bottle_0.96;book_0.65;chair_0.97;refrigerator_0.98;clock_0.88;vase_0.87,a group of people standing around a table .,0.003318
+194,194,cup_0.85;dining table_0.91;sink_0.85;wine glass_0.98;microwave_0.66;bottle_0.96;book_0.65;chair_0.97;refrigerator_0.98;clock_0.88;vase_0.87,a group of people standing around a table .,0.003318
+195,195,cup_0.85;dining table_0.91;sink_0.85;wine glass_0.98;microwave_0.66;bottle_0.96;book_0.65;chair_0.97;refrigerator_0.98;clock_0.88;vase_0.87,a group of people standing around a table .,0.003318
+196,196,cup_0.85;dining table_0.91;sink_0.85;wine glass_0.98;microwave_0.66;bottle_0.96;book_0.65;chair_0.97;refrigerator_0.98;clock_0.88;vase_0.87,a group of people standing around a table .,0.003318
+197,197,cup_0.85;dining table_0.91;sink_0.85;wine glass_0.98;microwave_0.66;bottle_0.96;book_0.65;chair_0.97;refrigerator_0.98;clock_0.88;vase_0.87,a group of people standing around a table .,0.003318
+198,198,cup_0.85;dining table_0.91;sink_0.85;wine glass_0.98;microwave_0.66;bottle_0.96;book_0.65;chair_0.97;refrigerator_0.98;clock_0.88;vase_0.87,a group of people standing around a table .,0.003318
+199,199,cup_0.48;potted plant_0.81;oven_0.99;book_0.71;bottle_0.63;chair_0.47;suitcase_0.43;cell phone_0.54;vase_0.91,a woman standing in front of a bathroom mirror .,0.000505
+200,200,cup_0.48;potted plant_0.81;oven_0.99;book_0.71;bottle_0.63;chair_0.47;suitcase_0.43;cell phone_0.54;vase_0.91,a woman standing in front of a bathroom mirror .,0.000505
+201,201,cup_0.48;potted plant_0.81;oven_0.99;book_0.71;bottle_0.63;chair_0.47;suitcase_0.43;cell phone_0.54;vase_0.91,a woman standing in front of a bathroom mirror .,0.000505
+202,202,tv_0.95;cup_0.60,a woman standing in a room with a remote .,0.000665
+203,203,toothbrush_0.78;cup_0.94;dining table_0.71;potted plant_0.36;oven_0.91;wine glass_0.35;bottle_0.96;book_0.40;chair_0.98;toaster_0.48;vase_0.64,a woman standing in front of a refrigerator .,0.000145
+204,204,toothbrush_0.78;cup_0.94;dining table_0.71;potted plant_0.36;oven_0.91;wine glass_0.35;bottle_0.96;book_0.40;chair_0.98;toaster_0.48;vase_0.64,a woman standing in front of a refrigerator .,0.000145
+205,205,toothbrush_0.78;cup_0.94;dining table_0.71;potted plant_0.36;oven_0.91;wine glass_0.35;bottle_0.96;book_0.40;chair_0.98;toaster_0.48;vase_0.64,a woman standing in front of a refrigerator .,0.000145
+206,206,toothbrush_0.78;cup_0.94;dining table_0.71;potted plant_0.36;oven_0.91;wine glass_0.35;bottle_0.96;book_0.40;chair_0.98;toaster_0.48;vase_0.64,a woman standing in front of a refrigerator .,0.000145
+207,207,toothbrush_0.78;cup_0.94;dining table_0.71;potted plant_0.36;oven_0.91;wine glass_0.35;bottle_0.96;book_0.40;chair_0.98;toaster_0.48;vase_0.64,a woman standing in front of a refrigerator .,0.000145
+208,208,toothbrush_0.78;cup_0.94;dining table_0.71;potted plant_0.36;oven_0.91;wine glass_0.35;bottle_0.96;book_0.40;chair_0.98;toaster_0.48;vase_0.64,a woman standing in front of a refrigerator .,0.000145
+209,209,toothbrush_0.78;cup_0.94;dining table_0.71;potted plant_0.36;oven_0.91;wine glass_0.35;bottle_0.96;book_0.40;chair_0.98;toaster_0.48;vase_0.64,a woman standing in front of a refrigerator .,0.000145
+210,210,book_0.81;chair_0.35;vase_0.98;potted plant_0.95;bed_0.87,a woman standing in a room with a remote .,0.000947
+211,211,book_0.81;chair_0.35;vase_0.98;potted plant_0.95;bed_0.87,a woman standing in a room with a remote .,0.000947
+212,212,book_0.81;chair_0.35;vase_0.98;potted plant_0.95;bed_0.87,a woman standing in a room with a remote .,0.000947
+213,213,book_0.81;chair_0.35;vase_0.98;potted plant_0.95;bed_0.87,a woman standing in a room with a remote .,0.000947
+214,214,book_0.81;chair_0.35;vase_0.98;potted plant_0.95;bed_0.87,a woman standing in a room with a remote .,0.000947
+215,215,book_0.81;chair_0.35;vase_0.98;potted plant_0.95;bed_0.87,a woman standing in a room with a remote .,0.000947
+216,216,book_0.81;chair_0.35;vase_0.98;potted plant_0.95;bed_0.87,a woman standing in a room with a remote .,0.000947
+217,217,book_0.81;chair_0.35;vase_0.98;potted plant_0.95;bed_0.87,a woman standing in a room with a remote .,0.000947
+218,218,laptop_0.80;bottle_0.48;vase_0.70;potted plant_0.80;bed_1.00,a man and a woman sitting on a bed .,0.00031
+219,219,laptop_0.80;bottle_0.48;vase_0.70;potted plant_0.80;bed_1.00,a man and a woman sitting on a bed .,0.00031
+220,220,,a woman standing in front of a mirror .,0.000428
+221,221,bed_0.99,a man sitting on a bed with a dog .,0.001003
+222,222,bed_0.99,a man sitting on a bed with a dog .,0.001003
+223,223,bed_0.99,a man sitting on a bed with a dog .,0.001003
+224,224,bed_0.99,a man sitting on a bed with a dog .,0.001003
+225,225,bed_0.99,a man sitting on a bed with a dog .,0.001003
+226,226,bed_0.99,a man sitting on a bed with a dog .,0.001003
+227,227,bed_0.99,a man sitting on a bed with a dog .,0.001003
+228,228,bed_0.99,a man sitting on a bed with a dog .,0.001003
+229,229,bed_0.99,a man sitting on a bed with a dog .,0.001003
+230,230,tie_0.82;potted plant_0.39,a woman standing in front of a mirror wearing a tie .,0.000233
+231,231,tie_0.82;potted plant_0.39,a woman standing in front of a mirror wearing a tie .,0.000233
+232,232,tie_0.82;potted plant_0.39,a woman standing in front of a mirror wearing a tie .,0.000233
+233,233,tie_0.82;potted plant_0.39,a woman standing in front of a mirror wearing a tie .,0.000233
+234,234,potted plant_0.79;couch_0.85;book_0.66;bed_0.97;clock_0.76;vase_0.95,a man and a woman sitting on a bed .,0.000966
+235,235,potted plant_0.79;couch_0.85;book_0.66;bed_0.97;clock_0.76;vase_0.95,a man and a woman sitting on a bed .,0.000966
+236,236,potted plant_0.79;couch_0.85;book_0.66;bed_0.97;clock_0.76;vase_0.95,a man and a woman sitting on a bed .,0.000966
+237,237,potted plant_0.79;couch_0.85;book_0.66;bed_0.97;clock_0.76;vase_0.95,a man and a woman sitting on a bed .,0.000966
+238,238,potted plant_0.79;couch_0.85;book_0.66;bed_0.97;clock_0.76;vase_0.95,a man and a woman sitting on a bed .,0.000966
+239,239,potted plant_0.79;couch_0.85;book_0.66;bed_0.97;clock_0.76;vase_0.95,a man and a woman sitting on a bed .,0.000966
+240,240,potted plant_0.79;couch_0.85;book_0.66;bed_0.97;clock_0.76;vase_0.95,a man and a woman sitting on a bed .,0.000966
+241,241,potted plant_0.79;couch_0.85;book_0.66;bed_0.97;clock_0.76;vase_0.95,a man and a woman sitting on a bed .,0.000966
+242,242,clock_0.83;potted plant_0.90;umbrella_0.41,a couple of women standing next to each other .,0.003921
+243,243,,a man and woman playing a video game .,0.000232
+244,244,bottle_0.72;cell phone_0.94;vase_0.76;potted plant_0.88;bed_0.99,a woman sitting on a bed with a book .,6.70E-05
+245,245,bottle_0.72;cell phone_0.94;vase_0.76;potted plant_0.88;bed_0.99,a woman sitting on a bed with a book .,6.70E-05
+246,246,clock_0.89,a view of a city street at night .,9.20E-05
+247,247,clock_0.68;motorcycle_0.39,a large group of people standing in front of a building .,1.00E-06
+248,248,,a view of a city with a clock tower in the center .,3.00E-06
+249,249,tie_0.92,a view of a city skyline with a clock tower .,1.90E-05
+250,250,tie_0.92,a view of a city skyline with a clock tower .,1.90E-05
+251,251,cup_0.66;potted plant_0.67;dining table_0.64;couch_0.85;tv_1.00;bottle_0.37;book_0.45;chair_0.97;tie_0.72,a man standing in a living room next to a christmas tree .,0.000143
+252,252,cup_0.66;potted plant_0.67;dining table_0.64;couch_0.85;tv_1.00;bottle_0.37;book_0.45;chair_0.97;tie_0.72,a man standing in a living room next to a christmas tree .,0.000143
+253,253,cup_0.66;potted plant_0.67;dining table_0.64;couch_0.85;tv_1.00;bottle_0.37;book_0.45;chair_0.97;tie_0.72,a man standing in a living room next to a christmas tree .,0.000143
+254,254,cup_0.66;potted plant_0.67;dining table_0.64;couch_0.85;tv_1.00;bottle_0.37;book_0.45;chair_0.97;tie_0.72,a man standing in a living room next to a christmas tree .,0.000143
+255,255,cup_0.66;potted plant_0.67;dining table_0.64;couch_0.85;tv_1.00;bottle_0.37;book_0.45;chair_0.97;tie_0.72,a man standing in a living room next to a christmas tree .,0.000143
+256,256,cup_0.55;couch_0.80;book_0.37;tie_1.00;chair_0.93;dog_0.54;vase_0.80,a man and a woman standing next to each other .,0.001594
+257,257,cup_0.55;couch_0.80;book_0.37;tie_1.00;chair_0.93;dog_0.54;vase_0.80,a man and a woman standing next to each other .,0.001594
+258,258,cup_0.55;couch_0.80;book_0.37;tie_1.00;chair_0.93;dog_0.54;vase_0.80,a man and a woman standing next to each other .,0.001594
+259,259,cup_0.55;couch_0.80;book_0.37;tie_1.00;chair_0.93;dog_0.54;vase_0.80,a man and a woman standing next to each other .,0.001594
+260,260,cup_0.55;couch_0.80;book_0.37;tie_1.00;chair_0.93;dog_0.54;vase_0.80,a man and a woman standing next to each other .,0.001594
+261,261,cup_0.55;couch_0.80;book_0.37;tie_1.00;chair_0.93;dog_0.54;vase_0.80,a man and a woman standing next to each other .,0.001594
+262,262,cup_0.55;couch_0.80;book_0.37;tie_1.00;chair_0.93;dog_0.54;vase_0.80,a man and a woman standing next to each other .,0.001594
+263,263,cup_0.55;couch_0.80;book_0.37;tie_1.00;chair_0.93;dog_0.54;vase_0.80,a man and a woman standing next to each other .,0.001594
+264,264,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+265,265,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+266,266,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+267,267,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+268,268,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+269,269,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+270,270,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+271,271,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+272,272,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+273,273,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+274,274,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+275,275,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+276,276,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+277,277,cup_0.84;potted plant_0.95;handbag_0.48;oven_0.81;umbrella_0.41;wine glass_0.48;book_0.82;bottle_0.81;tie_0.99;chair_0.38;toilet_0.54;vase_0.94,a man in a suit and tie standing in a kitchen .,0.000386
+278,278,couch_0.57;chair_0.96;vase_0.85;dining table_0.37,a woman sitting on a couch with a remote .,0.000129
+279,279,cup_0.84;dining table_0.75;potted plant_0.92;couch_0.95;bench_0.62;tv_1.00;book_0.45;bottle_0.71;chair_0.95;bowl_0.63;handbag_0.77;vase_0.99,a living room filled with furniture and a fire place .,0.003711
+280,280,cup_0.84;dining table_0.75;potted plant_0.92;couch_0.95;bench_0.62;tv_1.00;book_0.45;bottle_0.71;chair_0.95;bowl_0.63;handbag_0.77;vase_0.99,a living room filled with furniture and a fire place .,0.003711
+281,281,cup_0.84;dining table_0.75;potted plant_0.92;couch_0.95;bench_0.62;tv_1.00;book_0.45;bottle_0.71;chair_0.95;bowl_0.63;handbag_0.77;vase_0.99,a living room filled with furniture and a fire place .,0.003711
+282,282,cup_0.84;dining table_0.75;potted plant_0.92;couch_0.95;bench_0.62;tv_1.00;book_0.45;bottle_0.71;chair_0.95;bowl_0.63;handbag_0.77;vase_0.99,a living room filled with furniture and a fire place .,0.003711
+283,283,cup_0.84;dining table_0.75;potted plant_0.92;couch_0.95;bench_0.62;tv_1.00;book_0.45;bottle_0.71;chair_0.95;bowl_0.63;handbag_0.77;vase_0.99,a living room filled with furniture and a fire place .,0.003711
+284,284,cup_0.44;knife_0.50;potted plant_0.74;fork_0.40;tv_1.00;bottle_0.36;skateboard_0.77;scissors_0.35,a woman holding a nintendo wii game controller .,0.00301
+285,285,cup_0.44;knife_0.50;potted plant_0.74;fork_0.40;tv_1.00;bottle_0.36;skateboard_0.77;scissors_0.35,a woman holding a nintendo wii game controller .,0.00301
+286,286,cup_0.44;knife_0.50;potted plant_0.74;fork_0.40;tv_1.00;bottle_0.36;skateboard_0.77;scissors_0.35,a woman holding a nintendo wii game controller .,0.00301
+287,287,cup_0.44;knife_0.50;potted plant_0.74;fork_0.40;tv_1.00;bottle_0.36;skateboard_0.77;scissors_0.35,a woman holding a nintendo wii game controller .,0.00301
+288,288,cup_0.44;knife_0.50;potted plant_0.74;fork_0.40;tv_1.00;bottle_0.36;skateboard_0.77;scissors_0.35,a woman holding a nintendo wii game controller .,0.00301
+289,289,cup_0.44;knife_0.50;potted plant_0.74;fork_0.40;tv_1.00;bottle_0.36;skateboard_0.77;scissors_0.35,a woman holding a nintendo wii game controller .,0.00301
+290,290,refrigerator_0.83,a woman in a red shirt is holding a cellphone,4.00E-06
+291,291,cup_0.44;potted plant_0.89;knife_0.81;fork_0.38;spoon_0.44;tv_1.00;bottle_0.37;skateboard_0.72,a woman holding a nintendo wii game controller .,0.004435
+292,292,cup_0.44;potted plant_0.89;knife_0.81;fork_0.38;spoon_0.44;tv_1.00;bottle_0.37;skateboard_0.72,a woman holding a nintendo wii game controller .,0.004435
+293,293,cup_0.44;potted plant_0.89;knife_0.81;fork_0.38;spoon_0.44;tv_1.00;bottle_0.37;skateboard_0.72,a woman holding a nintendo wii game controller .,0.004435
+294,294,cup_0.44;potted plant_0.89;knife_0.81;fork_0.38;spoon_0.44;tv_1.00;bottle_0.37;skateboard_0.72,a woman holding a nintendo wii game controller .,0.004435
+295,295,cup_0.44;potted plant_0.89;knife_0.81;fork_0.38;spoon_0.44;tv_1.00;bottle_0.37;skateboard_0.72,a woman holding a nintendo wii game controller .,0.004435
+296,296,cup_0.44;potted plant_0.89;knife_0.81;fork_0.38;spoon_0.44;tv_1.00;bottle_0.37;skateboard_0.72,a woman holding a nintendo wii game controller .,0.004435
+297,297,cup_0.97;dining table_0.42;potted plant_0.65;couch_0.97;sink_0.44;chair_1.00;vase_0.37,a group of people standing around a living room .,0.000639
+298,298,cup_0.97;dining table_0.42;potted plant_0.65;couch_0.97;sink_0.44;chair_1.00;vase_0.37,a group of people standing around a living room .,0.000639
+299,299,cup_0.97;dining table_0.42;potted plant_0.65;couch_0.97;sink_0.44;chair_1.00;vase_0.37,a group of people standing around a living room .,0.000639
+300,300,cup_0.53;potted plant_0.91;knife_0.38;tv_1.00;bottle_0.35;chair_0.74;skateboard_0.77;vase_0.87,a woman holding a nintendo wii game controller .,0.007925
+301,301,cup_0.53;potted plant_0.91;knife_0.38;tv_1.00;bottle_0.35;chair_0.74;skateboard_0.77;vase_0.87,a woman holding a nintendo wii game controller .,0.007925
+302,302,cup_0.53;potted plant_0.91;knife_0.38;tv_1.00;bottle_0.35;chair_0.74;skateboard_0.77;vase_0.87,a woman holding a nintendo wii game controller .,0.007925
+303,303,cup_0.53;potted plant_0.91;knife_0.38;tv_1.00;bottle_0.35;chair_0.74;skateboard_0.77;vase_0.87,a woman holding a nintendo wii game controller .,0.007925
+304,304,refrigerator_0.97;cup_0.77,a woman standing in front of a refrigerator .,0.00125
+305,305,refrigerator_0.97;cup_0.77,a woman standing in front of a refrigerator .,0.00125
+306,306,refrigerator_0.97;cup_0.77,a woman standing in front of a refrigerator .,0.00125
+307,307,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+308,308,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+309,309,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+310,310,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+311,311,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+312,312,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+313,313,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+314,314,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+315,315,cup_0.44;sink_0.88;potted plant_0.45;couch_0.95;remote_0.52;oven_0.99;kite_0.41;skateboard_0.38;microwave_1.00;bottle_0.85;tie_0.97;book_0.71;refrigerator_1.00;chair_0.97;bird_0.55;traffic light_0.39;bowl_0.48;vase_0.57;cell phone_0.69,a man standing in a kitchen preparing food .,0.011901
+316,316,,a woman and a man standing next to each other .,0.000426
+317,317,,a woman and a man standing next to each other .,0.000426
+318,318,bottle_0.88;tie_1.00;toilet_0.87;refrigerator_1.00,a man in a suit and tie standing in a room .,0.000237
+319,319,bottle_0.88;tie_1.00;toilet_0.87;refrigerator_1.00,a man in a suit and tie standing in a room .,0.000237
+320,320,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+321,321,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+322,322,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+323,323,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+324,324,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+325,325,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+326,326,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+327,327,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+328,328,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+329,329,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+330,330,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+331,331,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+332,332,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+333,333,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+334,334,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+335,335,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+336,336,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+337,337,cup_0.50;couch_0.51;microwave_0.97;tv_0.47;bottle_0.43;tie_1.00;chair_0.92;traffic light_0.49,a couple of women standing next to each other .,0.004245
+338,338,,a woman standing in front of a mirror in a bathroom .,0.000596
+339,339,,a woman standing in front of a mirror in a bathroom .,0.000596
+340,340,tie_0.97;chair_0.38,a woman standing in a room with a remote .,0.000273
+341,341,tie_0.97;chair_0.38,a woman standing in a room with a remote .,0.000273
+342,342,tie_0.97;chair_0.38,a woman standing in a room with a remote .,0.000273
+343,343,tie_0.97;chair_0.38,a woman standing in a room with a remote .,0.000273
+344,344,tie_0.97;chair_0.38,a woman standing in a room with a remote .,0.000273
+345,345,tie_0.97;chair_0.38,a woman standing in a room with a remote .,0.000273
+346,346,sports ball_0.40,a woman standing in front of a mirror .,0.000639
+347,347,sports ball_0.40,a woman standing in front of a mirror .,0.000639
+348,348,sports ball_0.40,a woman standing in front of a mirror .,0.000639
+349,349,tie_1.00,a man in a suit and tie standing in a room .,0.00091
+350,350,tie_1.00,a man in a suit and tie standing in a room .,0.00091
+351,351,tie_1.00,a man in a suit and tie standing in a room .,0.00091
+352,352,tie_1.00,a man in a suit and tie standing in a room .,0.00091
+353,353,tv_0.60,a woman in a red dress is holding a cell phone .,8.00E-06
+354,354,tv_0.60,a woman in a red dress is holding a cell phone .,8.00E-06
+355,355,tv_0.60,a woman in a red dress is holding a cell phone .,8.00E-06
+356,356,tie_1.00,a man in a suit and tie standing in a room .,0.000884
+357,357,tv_0.52;handbag_0.86,a woman standing in front of a mirror .,0.000423
+358,358,tv_0.52;handbag_0.86,a woman standing in front of a mirror .,0.000423
+359,359,tv_0.52;handbag_0.86,a woman standing in front of a mirror .,0.000423
+360,360,tv_0.52;handbag_0.86,a woman standing in front of a mirror .,0.000423
+361,361,tv_0.52;handbag_0.86,a woman standing in front of a mirror .,0.000423
+362,362,tv_0.52;handbag_0.86,a woman standing in front of a mirror .,0.000423
+363,363,tie_1.00,a man in a suit and tie standing in a room .,0.000759
+364,364,tie_1.00,a man in a suit and tie standing in a room .,0.000759
+365,365,tie_1.00,a man in a suit and tie standing in a room .,0.000759
+366,366,book_0.37;tie_0.99;cell phone_0.88,a man and a woman standing in a room .,0.000308
+367,367,book_0.37;tie_0.99;cell phone_0.88,a man and a woman standing in a room .,0.000308
+368,368,book_0.37;tie_0.99;cell phone_0.88,a man and a woman standing in a room .,0.000308
+369,369,book_0.37;tie_0.99;cell phone_0.88,a man and a woman standing in a room .,0.000308
+370,370,book_0.37;tie_0.99;cell phone_0.88,a man and a woman standing in a room .,0.000308
+371,371,book_0.37;tie_0.99;cell phone_0.88,a man and a woman standing in a room .,0.000308
+372,372,book_0.37;tie_0.99;cell phone_0.88,a man and a woman standing in a room .,0.000308
+373,373,tv_0.62,a woman is standing in front of a mirror .,0.000203
+374,374,tv_0.62,a woman is standing in front of a mirror .,0.000203
+375,375,tv_0.62,a woman is standing in front of a mirror .,0.000203
+376,376,tie_1.00,a man in a suit and tie standing in a room .,0.001056
+377,377,tie_1.00,a man in a suit and tie standing in a room .,0.001056
+378,378,tie_1.00,a man in a suit and tie standing in a room .,0.001056
+379,379,tie_1.00,a man in a suit and tie standing in a room .,0.001056
+380,380,tie_1.00,a man in a suit and tie standing in a room .,0.001056
+381,381,tv_0.55,a woman in a white dress and a red tie .,7.00E-06
+382,382,tie_0.99,a man in a suit and tie standing in a room .,0.001243
+383,383,tie_0.99,a man in a suit and tie standing in a room .,0.001243
+384,384,tv_0.70,a woman is standing in a room with a cell phone .,1.50E-05
+385,385,tv_0.70,a woman is standing in a room with a cell phone .,1.50E-05
+386,386,tv_0.70,a woman is standing in a room with a cell phone .,1.50E-05
+387,387,tv_0.70,a woman is standing in a room with a cell phone .,1.50E-05
+388,388,tv_0.70,a woman is standing in a room with a cell phone .,1.50E-05
+389,389,tie_1.00,a man in a suit and tie standing in a room .,0.000898
+390,390,tie_1.00,a man in a suit and tie standing in a room .,0.000898
+391,391,tv_0.60,a woman in a white dress holding a cell phone .,5.10E-05
+392,392,tv_0.60,a woman in a white dress holding a cell phone .,5.10E-05
+393,393,tv_0.60,a woman in a white dress holding a cell phone .,5.10E-05
+394,394,tv_0.60,a woman in a white dress holding a cell phone .,5.10E-05
+395,395,tv_0.60,a woman in a white dress holding a cell phone .,5.10E-05
+396,396,tv_0.60,a woman in a white dress holding a cell phone .,5.10E-05
+397,397,tie_0.99;refrigerator_0.78,a group of people standing in a room .,0.000925
+398,398,tie_0.99;refrigerator_0.78,a group of people standing in a room .,0.000925
+399,399,tie_0.99;refrigerator_0.78,a group of people standing in a room .,0.000925
+400,400,tie_0.99;refrigerator_0.78,a group of people standing in a room .,0.000925
+401,401,tie_0.99;refrigerator_0.78,a group of people standing in a room .,0.000925
+402,402,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+403,403,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+404,404,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+405,405,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+406,406,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+407,407,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+408,408,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+409,409,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+410,410,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+411,411,cell phone_0.82,a woman and a man standing next to each other .,0.000694
+412,412,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.001589
+413,413,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.001589
+414,414,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.001589
+415,415,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.001589
+416,416,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.001589
+417,417,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.001589
+418,418,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.001589
+419,419,,a woman in a pink dress holding a cell phone .,2.70E-05
+420,420,,a woman in a pink dress holding a cell phone .,2.70E-05
+421,421,,a woman in a pink dress holding a cell phone .,2.70E-05
+422,422,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.000877
+423,423,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.000877
+424,424,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.000877
+425,425,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.000877
+426,426,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.000877
+427,427,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.000877
+428,428,tv_0.60;tie_1.00,a man in a suit and tie standing in a room .,0.000877
+429,429,tie_0.51,a man and a woman standing next to each other .,0.002223
+430,430,tie_0.51,a man and a woman standing next to each other .,0.002223
+431,431,tv_0.89;tie_1.00,a man in a suit and tie standing in a room .,0.001441
+432,432,tv_0.89;tie_1.00,a man in a suit and tie standing in a room .,0.001441
+433,433,,a woman and a man standing next to each other .,0.000338
+434,434,traffic light_0.74;tie_1.00;clock_0.40,a man and a woman standing next to each other .,0.001973
+435,435,traffic light_0.74;tie_1.00;clock_0.40,a man and a woman standing next to each other .,0.001973
+436,436,traffic light_0.74;tie_1.00;clock_0.40,a man and a woman standing next to each other .,0.001973
+437,437,traffic light_0.74;tie_1.00;clock_0.40,a man and a woman standing next to each other .,0.001973
+438,438,,a woman standing in front of a mirror holding a cell phone .,0.000129
+439,439,,a woman standing in front of a mirror holding a cell phone .,0.000129
+440,440,tv_0.76;tie_1.00,a man in a suit and tie standing in a room .,0.001047
+441,441,,a woman is holding a wii remote in her hand .,8.50E-05
+442,442,tv_0.59;tie_1.00,a man in a suit and tie standing in a room .,0.000771
+443,443,tv_0.59;tie_1.00,a man in a suit and tie standing in a room .,0.000771
+444,444,sports ball_0.57,a woman holding a nintendo wii game controller .,0.006562
+445,445,sports ball_0.57,a woman holding a nintendo wii game controller .,0.006562
+446,446,tv_0.59;tie_1.00,a man in a suit and tie standing in a room .,0.001722
+447,447,tv_0.38;cell phone_0.59;refrigerator_0.38,a woman standing next to a man in a room .,0.000209
+448,448,tv_0.38;cell phone_0.59;refrigerator_0.38,a woman standing next to a man in a room .,0.000209
+449,449,tv_0.38;cell phone_0.59;refrigerator_0.38,a woman standing next to a man in a room .,0.000209
+450,450,tv_0.38;cell phone_0.59;refrigerator_0.38,a woman standing next to a man in a room .,0.000209
+451,451,tv_0.38;cell phone_0.59;refrigerator_0.38,a woman standing next to a man in a room .,0.000209
+452,452,tv_0.76;tie_1.00,a man in a suit and tie standing in a room .,0.001632
+453,453,tv_0.76;tie_1.00,a man in a suit and tie standing in a room .,0.001632
+454,454,tv_0.76;tie_1.00,a man in a suit and tie standing in a room .,0.001632
+455,455,tv_0.76;tie_1.00,a man in a suit and tie standing in a room .,0.001632
+456,456,tv_0.76;tie_1.00,a man in a suit and tie standing in a room .,0.001632
+457,457,,a man and a woman standing next to each other .,0.002808
+458,458,,a man and a woman standing next to each other .,0.002808
+459,459,tv_0.51;tie_1.00,a man in a suit and tie standing in a room .,0.001683
+460,460,,a man and a woman standing next to each other .,0.001939
+461,461,tie_0.73;train_0.40,a man and a woman standing next to each other .,0.002306
+462,462,tie_0.73;train_0.40,a man and a woman standing next to each other .,0.002306
+463,463,tie_0.73;train_0.40,a man and a woman standing next to each other .,0.002306
+464,464,tie_0.73;train_0.40,a man and a woman standing next to each other .,0.002306
+465,465,tv_0.65;tie_1.00,a man in a suit and tie standing in a room .,0.001456
+466,466,tv_0.65;tie_1.00,a man in a suit and tie standing in a room .,0.001456
+467,467,tv_0.65;tie_1.00,a man in a suit and tie standing in a room .,0.001456
+468,468,tv_0.65;tie_1.00,a man in a suit and tie standing in a room .,0.001456
+469,469,chair_0.41,a man and a woman standing next to each other .,0.002611
+470,470,chair_0.41,a man and a woman standing next to each other .,0.002611
+471,471,chair_0.41,a man and a woman standing next to each other .,0.002611
+472,472,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+473,473,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+474,474,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+475,475,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+476,476,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+477,477,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+478,478,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+479,479,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+480,480,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+481,481,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+482,482,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+483,483,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+484,484,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+485,485,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+486,486,tv_0.79;tie_1.00;sports ball_0.68,a man in a suit and tie standing in a room .,0.000498
+487,487,tv_1.00;bowl_0.47;chair_0.91;clock_0.40;dining table_0.69,a man and a woman standing next to each other .,0.002534
+488,488,tv_1.00;bowl_0.47;chair_0.91;clock_0.40;dining table_0.69,a man and a woman standing next to each other .,0.002534
+489,489,tv_1.00;bowl_0.47;chair_0.91;clock_0.40;dining table_0.69,a man and a woman standing next to each other .,0.002534
+490,490,tv_1.00;bowl_0.47;chair_0.91;clock_0.40;dining table_0.69,a man and a woman standing next to each other .,0.002534
+491,491,refrigerator_0.48;cup_0.44,a man standing in front of a bathroom mirror .,0.000593
+492,492,refrigerator_0.48;cup_0.44,a man standing in front of a bathroom mirror .,0.000593
+493,493,refrigerator_0.48;cup_0.44,a man standing in front of a bathroom mirror .,0.000593
+494,494,dining table_0.61;remote_0.42;couch_0.74;book_0.51;tie_0.91;chair_0.63;donut_0.84;cell phone_0.49;toilet_0.73;truck_0.92,a man sitting at a table in front of a microphone .,0.0016
+495,495,dining table_0.80;couch_0.62;wine glass_0.43;tv_1.00;book_0.69;chair_0.86,a young boy is playing a video game .,0.000997
+496,496,dining table_0.80;couch_0.62;wine glass_0.43;tv_1.00;book_0.69;chair_0.86,a young boy is playing a video game .,0.000997
+497,497,dining table_0.80;couch_0.62;wine glass_0.43;tv_1.00;book_0.69;chair_0.86,a young boy is playing a video game .,0.000997
+498,498,dining table_0.80;couch_0.62;wine glass_0.43;tv_1.00;book_0.69;chair_0.86,a young boy is playing a video game .,0.000997
+499,499,dining table_0.80;couch_0.62;wine glass_0.43;tv_1.00;book_0.69;chair_0.86,a young boy is playing a video game .,0.000997
+500,500,tv_1.00;book_0.62,a man is holding a video game controller,0.000846
+501,501,tv_1.00;book_0.62,a man is holding a video game controller,0.000846
+502,502,tv_1.00;book_0.62,a man is holding a video game controller,0.000846
+503,503,tv_1.00;book_0.62,a man is holding a video game controller,0.000846
+504,504,tv_1.00;book_0.62,a man is holding a video game controller,0.000846
+505,505,tv_1.00;book_0.62,a man is holding a video game controller,0.000846
+506,506,tv_1.00;book_0.62,a man is holding a video game controller,0.000846
+507,507,remote_0.62;couch_0.83;car_0.54;tv_0.89;book_0.45;tie_0.76;chair_0.82;truck_0.44,a man and a woman sitting on a couch .,0.001489
+508,508,remote_0.62;couch_0.83;car_0.54;tv_0.89;book_0.45;tie_0.76;chair_0.82;truck_0.44,a man and a woman sitting on a couch .,0.001489
+509,509,remote_0.62;couch_0.83;car_0.54;tv_0.89;book_0.45;tie_0.76;chair_0.82;truck_0.44,a man and a woman sitting on a couch .,0.001489
+510,510,remote_0.62;couch_0.83;car_0.54;tv_0.89;book_0.45;tie_0.76;chair_0.82;truck_0.44,a man and a woman sitting on a couch .,0.001489
+511,511,dining table_0.57;remote_0.67;couch_0.97;tv_1.00;bottle_0.53;chair_0.66;clock_0.55,a group of people playing a game with remote controllers .,0.000753
+512,512,dining table_0.57;remote_0.67;couch_0.97;tv_1.00;bottle_0.53;chair_0.66;clock_0.55,a group of people playing a game with remote controllers .,0.000753
+513,513,dining table_0.57;remote_0.67;couch_0.97;tv_1.00;bottle_0.53;chair_0.66;clock_0.55,a group of people playing a game with remote controllers .,0.000753
+514,514,dining table_0.57;remote_0.67;couch_0.97;tv_1.00;bottle_0.53;chair_0.66;clock_0.55,a group of people playing a game with remote controllers .,0.000753
+515,515,dining table_0.57;remote_0.67;couch_0.97;tv_1.00;bottle_0.53;chair_0.66;clock_0.55,a group of people playing a game with remote controllers .,0.000753
+516,516,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+517,517,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+518,518,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+519,519,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+520,520,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+521,521,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+522,522,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+523,523,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+524,524,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+525,525,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+526,526,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+527,527,knife_0.39;remote_0.42;couch_0.45;oven_0.96;parking meter_0.54;microwave_0.99;teddy bear_0.46;bottle_0.89;book_0.36;chair_0.45;refrigerator_1.00;cell phone_0.45;bowl_0.58,a man standing in front of a refrigerator .,0.00212
+528,528,tv_1.00;couch_0.45;tie_0.99;chair_0.71;remote_0.90,a man in a suit and tie sitting in a chair,6.90E-05
+529,529,tv_1.00;couch_0.45;tie_0.99;chair_0.71;remote_0.90,a man in a suit and tie sitting in a chair,6.90E-05
+530,530,bottle_0.93;handbag_0.72;refrigerator_0.98;microwave_1.00,a man standing in front of a refrigerator .,0.000711
+531,531,bottle_0.93;handbag_0.72;refrigerator_0.98;microwave_1.00,a man standing in front of a refrigerator .,0.000711
+532,532,bottle_0.93;handbag_0.72;refrigerator_0.98;microwave_1.00,a man standing in front of a refrigerator .,0.000711
+533,533,tv_0.99;couch_0.62;tie_1.00;chair_0.60;bottle_0.72,a man in a suit and tie sitting in a chair .,0.001134
+534,534,tv_0.99;couch_0.62;tie_1.00;chair_0.60;bottle_0.72,a man in a suit and tie sitting in a chair .,0.001134
+535,535,tv_0.99;couch_0.62;tie_1.00;chair_0.60;bottle_0.72,a man in a suit and tie sitting in a chair .,0.001134
+536,536,tv_0.99;couch_0.62;tie_1.00;chair_0.60;bottle_0.72,a man in a suit and tie sitting in a chair .,0.001134
+537,537,tv_0.99;couch_0.62;tie_1.00;chair_0.60;bottle_0.72,a man in a suit and tie sitting in a chair .,0.001134
+538,538,tv_0.99;couch_0.62;tie_1.00;chair_0.60;bottle_0.72,a man in a suit and tie sitting in a chair .,0.001134
+539,539,tv_0.99;couch_0.62;tie_1.00;chair_0.60;bottle_0.72,a man in a suit and tie sitting in a chair .,0.001134
+540,540,oven_0.98;microwave_0.62;bottle_0.84;chair_0.77;refrigerator_0.99;cell phone_0.63,a man in a baseball uniform holding a bat .,0.000164
+541,541,oven_0.98;microwave_0.62;bottle_0.84;chair_0.77;refrigerator_0.99;cell phone_0.63,a man in a baseball uniform holding a bat .,0.000164
+542,542,oven_0.98;microwave_0.62;bottle_0.84;chair_0.77;refrigerator_0.99;cell phone_0.63,a man in a baseball uniform holding a bat .,0.000164
+543,543,couch_0.98;car_0.83;tv_1.00;book_0.51;tie_0.98;sports ball_0.65;chair_0.66;clock_0.42,a group of people playing a game with nintendo wii controllers .,0.000432
+544,544,couch_0.98;car_0.83;tv_1.00;book_0.51;tie_0.98;sports ball_0.65;chair_0.66;clock_0.42,a group of people playing a game with nintendo wii controllers .,0.000432
+545,545,couch_0.98;car_0.83;tv_1.00;book_0.51;tie_0.98;sports ball_0.65;chair_0.66;clock_0.42,a group of people playing a game with nintendo wii controllers .,0.000432
+546,546,sink_0.56;laptop_0.41;fork_0.62;microwave_0.98;book_0.74;bottle_0.88;tie_1.00;chair_0.78;refrigerator_1.00,two men standing in a living room playing nintendo wii,0.000402
+547,547,sink_0.56;laptop_0.41;fork_0.62;microwave_0.98;book_0.74;bottle_0.88;tie_1.00;chair_0.78;refrigerator_1.00,two men standing in a living room playing nintendo wii,0.000402
+548,548,sink_0.56;laptop_0.41;fork_0.62;microwave_0.98;book_0.74;bottle_0.88;tie_1.00;chair_0.78;refrigerator_1.00,two men standing in a living room playing nintendo wii,0.000402
+549,549,sink_0.56;laptop_0.41;fork_0.62;microwave_0.98;book_0.74;bottle_0.88;tie_1.00;chair_0.78;refrigerator_1.00,two men standing in a living room playing nintendo wii,0.000402
+550,550,sink_0.56;laptop_0.41;fork_0.62;microwave_0.98;book_0.74;bottle_0.88;tie_1.00;chair_0.78;refrigerator_1.00,two men standing in a living room playing nintendo wii,0.000402
+551,551,handbag_0.52;cup_0.77;vase_0.43,a man standing next to a woman in a room .,0.000264
+552,552,handbag_0.52;cup_0.77;vase_0.43,a man standing next to a woman in a room .,0.000264
+553,553,handbag_0.52;cup_0.77;vase_0.43,a man standing next to a woman in a room .,0.000264
+554,554,handbag_0.52;cup_0.77;vase_0.43,a man standing next to a woman in a room .,0.000264
+555,555,couch_0.99;microwave_0.99;tv_0.84;bottle_0.65;tie_0.99;chair_0.95;book_0.40;cell phone_0.35;bowl_0.47,a man standing in a living room holding a wii controller .,0.001805
+556,556,couch_0.99;microwave_0.99;tv_0.84;bottle_0.65;tie_0.99;chair_0.95;book_0.40;cell phone_0.35;bowl_0.47,a man standing in a living room holding a wii controller .,0.001805
+557,557,couch_0.99;microwave_0.99;tv_0.84;bottle_0.65;tie_0.99;chair_0.95;book_0.40;cell phone_0.35;bowl_0.47,a man standing in a living room holding a wii controller .,0.001805
+558,558,couch_0.99;microwave_0.99;tv_0.84;bottle_0.65;tie_0.99;chair_0.95;book_0.40;cell phone_0.35;bowl_0.47,a man standing in a living room holding a wii controller .,0.001805
+559,559,couch_0.99;microwave_0.99;tv_0.84;bottle_0.65;tie_0.99;chair_0.95;book_0.40;cell phone_0.35;bowl_0.47,a man standing in a living room holding a wii controller .,0.001805
+560,560,couch_0.99;microwave_0.99;tv_0.84;bottle_0.65;tie_0.99;chair_0.95;book_0.40;cell phone_0.35;bowl_0.47,a man standing in a living room holding a wii controller .,0.001805
+561,561,couch_0.99;microwave_0.99;tv_0.84;bottle_0.65;tie_0.99;chair_0.95;book_0.40;cell phone_0.35;bowl_0.47,a man standing in a living room holding a wii controller .,0.001805
+562,562,toothbrush_0.48;dining table_0.51;couch_0.96;mouse_0.49;tie_0.99;chair_0.89,a man in a suit and tie standing in a room .,0.001999
+563,563,toothbrush_0.48;dining table_0.51;couch_0.96;mouse_0.49;tie_0.99;chair_0.89,a man in a suit and tie standing in a room .,0.001999
+564,564,toothbrush_0.48;dining table_0.51;couch_0.96;mouse_0.49;tie_0.99;chair_0.89,a man in a suit and tie standing in a room .,0.001999
+565,565,toothbrush_0.48;dining table_0.51;couch_0.96;mouse_0.49;tie_0.99;chair_0.89,a man in a suit and tie standing in a room .,0.001999
+566,566,toothbrush_0.48;dining table_0.51;couch_0.96;mouse_0.49;tie_0.99;chair_0.89,a man in a suit and tie standing in a room .,0.001999
+567,567,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+568,568,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+569,569,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+570,570,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+571,571,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+572,572,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+573,573,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+574,574,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+575,575,book_0.44;refrigerator_0.51,a man in a suit and tie standing in a bathroom .,0.001472
+576,576,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+577,577,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+578,578,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+579,579,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+580,580,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+581,581,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+582,582,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+583,583,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+584,584,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+585,585,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+586,586,dining table_0.37;couch_0.98;book_0.52;tie_1.00;chair_0.63;cell phone_0.85;bowl_0.99,a man in a suit and tie standing next to a woman .,0.00018
+587,587,,a couple of men standing next to each other .,0.001535
+588,588,,a couple of men standing next to each other .,0.001535
+589,589,couch_0.57;tie_0.98;chair_0.65;mouse_0.47,a man in a suit and tie standing in a room .,0.001083
+590,590,couch_0.57;tie_0.98;chair_0.65;mouse_0.47,a man in a suit and tie standing in a room .,0.001083
+591,591,book_0.67;chair_0.70;refrigerator_0.50,a man in a suit and tie standing in front of a microphone .,3.00E-05
+592,592,book_0.67;chair_0.70;refrigerator_0.50,a man in a suit and tie standing in front of a microphone .,3.00E-05
+593,593,book_0.67;chair_0.70;refrigerator_0.50,a man in a suit and tie standing in front of a microphone .,3.00E-05
+594,594,book_0.67;chair_0.70;refrigerator_0.50,a man in a suit and tie standing in front of a microphone .,3.00E-05
+595,595,book_0.67;chair_0.70;refrigerator_0.50,a man in a suit and tie standing in front of a microphone .,3.00E-05
+596,596,chair_0.86;tie_0.88;bowl_0.95,a man in a suit and tie standing next to a woman .,0.000119
+597,597,chair_0.86;tie_0.88;bowl_0.95,a man in a suit and tie standing next to a woman .,0.000119
+598,598,,a couple of men standing next to each other .,0.003876
+599,599,,a couple of men standing next to each other .,0.003876
+600,600,bowl_0.87;tie_0.99;chair_0.92,a man in a suit and tie standing in a room .,0.001081
+601,601,tie_0.95;cup_0.40,a group of men standing next to each other .,0.002141
+602,602,tie_0.95;cup_0.40,a group of men standing next to each other .,0.002141
+603,603,tie_0.95;cup_0.40,a group of men standing next to each other .,0.002141
+604,604,tie_0.95;cup_0.40,a group of men standing next to each other .,0.002141
+605,605,tie_0.95;cup_0.40,a group of men standing next to each other .,0.002141
+606,606,tie_0.95;cup_0.40,a group of men standing next to each other .,0.002141
+607,607,tie_0.95;cup_0.40,a group of men standing next to each other .,0.002141
+608,608,tie_0.95;cup_0.40,a group of men standing next to each other .,0.002141
+609,609,cup_0.94;potted plant_0.89;couch_0.59;bench_0.41;tv_0.99;chair_0.67;cell phone_0.41;vase_1.00,a woman standing in front of a mirror in a kitchen .,0.000207
+610,610,cup_0.94;potted plant_0.89;couch_0.59;bench_0.41;tv_0.99;chair_0.67;cell phone_0.41;vase_1.00,a woman standing in front of a mirror in a kitchen .,0.000207
+611,611,cup_0.94;potted plant_0.89;couch_0.59;bench_0.41;tv_0.99;chair_0.67;cell phone_0.41;vase_1.00,a woman standing in front of a mirror in a kitchen .,0.000207
+612,612,cup_0.94;potted plant_0.89;couch_0.59;bench_0.41;tv_0.99;chair_0.67;cell phone_0.41;vase_1.00,a woman standing in front of a mirror in a kitchen .,0.000207
+613,613,cup_0.94;potted plant_0.89;couch_0.59;bench_0.41;tv_0.99;chair_0.67;cell phone_0.41;vase_1.00,a woman standing in front of a mirror in a kitchen .,0.000207
+614,614,cup_0.84;potted plant_0.87;dining table_0.44;book_0.56;bottle_0.85;chair_0.97;refrigerator_0.98;vase_0.96,a woman is standing in a room with a table .,1.10E-05
+615,615,cup_0.84;potted plant_0.87;dining table_0.44;book_0.56;bottle_0.85;chair_0.97;refrigerator_0.98;vase_0.96,a woman is standing in a room with a table .,1.10E-05
+616,616,cup_0.87;potted plant_0.93;knife_0.42;chair_0.97;baseball bat_0.60;vase_1.00,a woman standing next to a man holding a wine glass .,0.000553
+617,617,cup_0.87;potted plant_0.93;knife_0.42;chair_0.97;baseball bat_0.60;vase_1.00,a woman standing next to a man holding a wine glass .,0.000553
+618,618,cup_0.87;potted plant_0.93;knife_0.42;chair_0.97;baseball bat_0.60;vase_1.00,a woman standing next to a man holding a wine glass .,0.000553
+619,619,cup_0.87;potted plant_0.93;knife_0.42;chair_0.97;baseball bat_0.60;vase_1.00,a woman standing next to a man holding a wine glass .,0.000553
+620,620,cup_0.85;potted plant_0.96;bottle_0.55;chair_0.74;refrigerator_0.94;bowl_0.68;vase_0.50,a woman holding a glass of wine in her hand .,3.60E-05
+621,621,cup_0.85;potted plant_0.96;bottle_0.55;chair_0.74;refrigerator_0.94;bowl_0.68;vase_0.50,a woman holding a glass of wine in her hand .,3.60E-05
+622,622,cup_0.85;potted plant_0.96;bottle_0.55;chair_0.74;refrigerator_0.94;bowl_0.68;vase_0.50,a woman holding a glass of wine in her hand .,3.60E-05
+623,623,suitcase_0.40;cup_0.64;vase_0.99;potted plant_0.75,a couple of women standing next to each other .,0.002689
+624,624,cup_0.79;dining table_0.67;handbag_0.51;couch_0.88;potted plant_0.80;wine glass_0.35;tv_0.95;bottle_0.82;book_0.97;chair_0.95;bowl_0.87;vase_0.39,a man and a woman standing in a living room .,0.000439
+625,625,cup_0.79;dining table_0.67;handbag_0.51;couch_0.88;potted plant_0.80;wine glass_0.35;tv_0.95;bottle_0.82;book_0.97;chair_0.95;bowl_0.87;vase_0.39,a man and a woman standing in a living room .,0.000439
+626,626,cup_0.79;dining table_0.67;handbag_0.51;couch_0.88;potted plant_0.80;wine glass_0.35;tv_0.95;bottle_0.82;book_0.97;chair_0.95;bowl_0.87;vase_0.39,a man and a woman standing in a living room .,0.000439
+627,627,cup_0.79;dining table_0.67;handbag_0.51;couch_0.88;potted plant_0.80;wine glass_0.35;tv_0.95;bottle_0.82;book_0.97;chair_0.95;bowl_0.87;vase_0.39,a man and a woman standing in a living room .,0.000439
+628,628,cup_0.59;potted plant_0.72;laptop_0.46;tv_0.98;chair_0.39;vase_0.99,a woman holding a nintendo wii game controller .,0.010404
+629,629,cup_0.59;potted plant_0.72;laptop_0.46;tv_0.98;chair_0.39;vase_0.99,a woman holding a nintendo wii game controller .,0.010404
+630,630,cup_0.59;potted plant_0.72;laptop_0.46;tv_0.98;chair_0.39;vase_0.99,a woman holding a nintendo wii game controller .,0.010404
+631,631,cup_0.59;potted plant_0.72;laptop_0.46;tv_0.98;chair_0.39;vase_0.99,a woman holding a nintendo wii game controller .,0.010404
+632,632,cup_0.89;potted plant_0.76;oven_0.98;fork_0.54;wine glass_0.57;book_0.58;bottle_0.87;chair_0.82;tie_0.87;suitcase_0.49;vase_0.79,a woman standing in front of a refrigerator .,0.00083
+633,633,cup_0.89;potted plant_0.76;oven_0.98;fork_0.54;wine glass_0.57;book_0.58;bottle_0.87;chair_0.82;tie_0.87;suitcase_0.49;vase_0.79,a woman standing in front of a refrigerator .,0.00083
+634,634,cup_0.89;potted plant_0.76;oven_0.98;fork_0.54;wine glass_0.57;book_0.58;bottle_0.87;chair_0.82;tie_0.87;suitcase_0.49;vase_0.79,a woman standing in front of a refrigerator .,0.00083
+635,635,cup_0.89;potted plant_0.76;oven_0.98;fork_0.54;wine glass_0.57;book_0.58;bottle_0.87;chair_0.82;tie_0.87;suitcase_0.49;vase_0.79,a woman standing in front of a refrigerator .,0.00083
+636,636,cup_0.89;potted plant_0.76;oven_0.98;fork_0.54;wine glass_0.57;book_0.58;bottle_0.87;chair_0.82;tie_0.87;suitcase_0.49;vase_0.79,a woman standing in front of a refrigerator .,0.00083
+637,637,cup_0.89;potted plant_0.76;oven_0.98;fork_0.54;wine glass_0.57;book_0.58;bottle_0.87;chair_0.82;tie_0.87;suitcase_0.49;vase_0.79,a woman standing in front of a refrigerator .,0.00083
+638,638,cup_0.89;potted plant_0.76;oven_0.98;fork_0.54;wine glass_0.57;book_0.58;bottle_0.87;chair_0.82;tie_0.87;suitcase_0.49;vase_0.79,a woman standing in front of a refrigerator .,0.00083
+639,639,cup_0.89;potted plant_0.76;oven_0.98;fork_0.54;wine glass_0.57;book_0.58;bottle_0.87;chair_0.82;tie_0.87;suitcase_0.49;vase_0.79,a woman standing in front of a refrigerator .,0.00083
+640,640,tie_0.91;train_0.56;potted plant_0.46;refrigerator_0.66,a couple of women standing next to each other .,0.004053
+641,641,tie_0.91;train_0.56;potted plant_0.46;refrigerator_0.66,a couple of women standing next to each other .,0.004053
+642,642,tie_0.91;train_0.56;potted plant_0.46;refrigerator_0.66,a couple of women standing next to each other .,0.004053
+643,643,tie_0.91;train_0.56;potted plant_0.46;refrigerator_0.66,a couple of women standing next to each other .,0.004053
+644,644,tie_0.91;train_0.56;potted plant_0.46;refrigerator_0.66,a couple of women standing next to each other .,0.004053
+645,645,tie_1.00;wine glass_0.44,a man and a woman standing next to each other .,0.002971
+646,646,tie_1.00;wine glass_0.44,a man and a woman standing next to each other .,0.002971
+647,647,tie_1.00;wine glass_0.44,a man and a woman standing next to each other .,0.002971
+648,648,tie_1.00;wine glass_0.44,a man and a woman standing next to each other .,0.002971
+649,649,,a black and white photo of a clock tower .,0.000709
+650,650,cup_0.73;sink_0.79;dining table_0.56;knife_0.49;couch_0.84;oven_0.95;potted plant_0.47;bench_0.38;apple_0.44;book_0.48;tie_0.99;chair_1.00;refrigerator_1.00;bottle_0.70;bowl_0.69;handbag_0.83;vase_0.82,a woman standing in front of a refrigerator .,0.003926
+651,651,cup_0.73;sink_0.79;dining table_0.56;knife_0.49;couch_0.84;oven_0.95;potted plant_0.47;bench_0.38;apple_0.44;book_0.48;tie_0.99;chair_1.00;refrigerator_1.00;bottle_0.70;bowl_0.69;handbag_0.83;vase_0.82,a woman standing in front of a refrigerator .,0.003926
+652,652,cup_0.73;sink_0.79;dining table_0.56;knife_0.49;couch_0.84;oven_0.95;potted plant_0.47;bench_0.38;apple_0.44;book_0.48;tie_0.99;chair_1.00;refrigerator_1.00;bottle_0.70;bowl_0.69;handbag_0.83;vase_0.82,a woman standing in front of a refrigerator .,0.003926
+653,653,cup_0.73;sink_0.79;dining table_0.56;knife_0.49;couch_0.84;oven_0.95;potted plant_0.47;bench_0.38;apple_0.44;book_0.48;tie_0.99;chair_1.00;refrigerator_1.00;bottle_0.70;bowl_0.69;handbag_0.83;vase_0.82,a woman standing in front of a refrigerator .,0.003926
+654,654,cup_0.73;sink_0.79;dining table_0.56;knife_0.49;couch_0.84;oven_0.95;potted plant_0.47;bench_0.38;apple_0.44;book_0.48;tie_0.99;chair_1.00;refrigerator_1.00;bottle_0.70;bowl_0.69;handbag_0.83;vase_0.82,a woman standing in front of a refrigerator .,0.003926
+655,655,cup_0.84;potted plant_0.95;tv_0.72;bottle_0.37;chair_0.53;vase_0.99,a woman in a red dress holding a cell phone .,6.40E-05
+656,656,cup_0.84;potted plant_0.95;tv_0.72;bottle_0.37;chair_0.53;vase_0.99,a woman in a red dress holding a cell phone .,6.40E-05
+657,657,cup_0.84;potted plant_0.95;tv_0.72;bottle_0.37;chair_0.53;vase_0.99,a woman in a red dress holding a cell phone .,6.40E-05
+658,658,cup_0.84;potted plant_0.95;tv_0.72;bottle_0.37;chair_0.53;vase_0.99,a woman in a red dress holding a cell phone .,6.40E-05
+659,659,bowl_0.96;bottle_0.69;tie_1.00;chair_0.98,a man and a woman standing next to each other .,0.00266
+660,660,tv_0.95;cup_0.88;chair_0.79;vase_0.99;potted plant_0.93,a woman is holding a glass of wine .,0.001148
+661,661,tv_0.95;cup_0.88;chair_0.79;vase_0.99;potted plant_0.93,a woman is holding a glass of wine .,0.001148
+662,662,tv_0.95;cup_0.88;chair_0.79;vase_0.99;potted plant_0.93,a woman is holding a glass of wine .,0.001148
+663,663,tv_0.95;cup_0.88;chair_0.79;vase_0.99;potted plant_0.93,a woman is holding a glass of wine .,0.001148
+664,664,tv_0.95;cup_0.88;chair_0.79;vase_0.99;potted plant_0.93,a woman is holding a glass of wine .,0.001148
+665,665,handbag_0.86;bottle_0.56;tie_0.99;chair_0.61;book_0.40;bowl_0.93,a man and a woman standing next to each other .,0.001867
+666,666,handbag_0.86;bottle_0.56;tie_0.99;chair_0.61;book_0.40;bowl_0.93,a man and a woman standing next to each other .,0.001867
+667,667,tv_0.54;cup_0.85;chair_0.51;vase_1.00;potted plant_0.92,a woman holding a bottle of wine in her hand .,0.000518
+668,668,tv_0.54;cup_0.85;chair_0.51;vase_1.00;potted plant_0.92,a woman holding a bottle of wine in her hand .,0.000518
+669,669,tv_0.54;cup_0.85;chair_0.51;vase_1.00;potted plant_0.92,a woman holding a bottle of wine in her hand .,0.000518
+670,670,tv_0.54;cup_0.85;chair_0.51;vase_1.00;potted plant_0.92,a woman holding a bottle of wine in her hand .,0.000518
+671,671,tv_0.54;cup_0.85;chair_0.51;vase_1.00;potted plant_0.92,a woman holding a bottle of wine in her hand .,0.000518
+672,672,cup_0.90;dining table_0.63;couch_0.81;wine glass_0.39;bottle_0.44;tie_0.98;chair_1.00;refrigerator_0.99;clock_0.55;bowl_0.50,a group of people standing next to each other .,0.003665
+673,673,cup_0.90;dining table_0.63;couch_0.81;wine glass_0.39;bottle_0.44;tie_0.98;chair_1.00;refrigerator_0.99;clock_0.55;bowl_0.50,a group of people standing next to each other .,0.003665
+674,674,cup_0.86;potted plant_0.93;carrot_0.61;microwave_0.43;tv_0.96;chair_0.97;clock_0.49;vase_0.99,a woman holding a nintendo wii game controller .,0.005435
+675,675,cup_0.86;potted plant_0.93;carrot_0.61;microwave_0.43;tv_0.96;chair_0.97;clock_0.49;vase_0.99,a woman holding a nintendo wii game controller .,0.005435
+676,676,cup_0.86;potted plant_0.93;carrot_0.61;microwave_0.43;tv_0.96;chair_0.97;clock_0.49;vase_0.99,a woman holding a nintendo wii game controller .,0.005435
+677,677,cup_0.86;potted plant_0.93;carrot_0.61;microwave_0.43;tv_0.96;chair_0.97;clock_0.49;vase_0.99,a woman holding a nintendo wii game controller .,0.005435
+678,678,cup_0.86;potted plant_0.93;carrot_0.61;microwave_0.43;tv_0.96;chair_0.97;clock_0.49;vase_0.99,a woman holding a nintendo wii game controller .,0.005435
+679,679,cup_0.86;potted plant_0.93;carrot_0.61;microwave_0.43;tv_0.96;chair_0.97;clock_0.49;vase_0.99,a woman holding a nintendo wii game controller .,0.005435
+680,680,cup_0.57;wine glass_0.46;apple_0.41;book_0.68;bottle_0.79;tie_1.00;chair_0.94;bowl_0.96,a couple of women standing next to each other .,0.008088
+681,681,cup_0.57;wine glass_0.46;apple_0.41;book_0.68;bottle_0.79;tie_1.00;chair_0.94;bowl_0.96,a couple of women standing next to each other .,0.008088
+682,682,cup_0.57;wine glass_0.46;apple_0.41;book_0.68;bottle_0.79;tie_1.00;chair_0.94;bowl_0.96,a couple of women standing next to each other .,0.008088
+683,683,cup_0.57;wine glass_0.46;apple_0.41;book_0.68;bottle_0.79;tie_1.00;chair_0.94;bowl_0.96,a couple of women standing next to each other .,0.008088
+684,684,cup_0.57;wine glass_0.46;apple_0.41;book_0.68;bottle_0.79;tie_1.00;chair_0.94;bowl_0.96,a couple of women standing next to each other .,0.008088
+685,685,cup_0.57;wine glass_0.46;apple_0.41;book_0.68;bottle_0.79;tie_1.00;chair_0.94;bowl_0.96,a couple of women standing next to each other .,0.008088
+686,686,cup_0.57;wine glass_0.46;apple_0.41;book_0.68;bottle_0.79;tie_1.00;chair_0.94;bowl_0.96,a couple of women standing next to each other .,0.008088
+687,687,cup_0.57;wine glass_0.46;apple_0.41;book_0.68;bottle_0.79;tie_1.00;chair_0.94;bowl_0.96,a couple of women standing next to each other .,0.008088
+688,688,tv_0.89;cup_0.83;vase_1.00;potted plant_0.96;microwave_0.55,a woman and a man are standing in a room,1.60E-05
+689,689,tv_0.89;cup_0.83;vase_1.00;potted plant_0.96;microwave_0.55,a woman and a man are standing in a room,1.60E-05
+690,690,tv_0.89;cup_0.83;vase_1.00;potted plant_0.96;microwave_0.55,a woman and a man are standing in a room,1.60E-05
+691,691,tv_0.89;cup_0.83;vase_1.00;potted plant_0.96;microwave_0.55,a woman and a man are standing in a room,1.60E-05
+692,692,wine glass_0.53;book_0.37;bottle_0.55;tie_0.99;refrigerator_0.45;bowl_0.95,a man and a woman standing next to each other .,0.002171
+693,693,tv_0.99;cup_0.60;vase_0.99;potted plant_0.92;microwave_0.59,a teddy bear sitting on top of a window sill .,1.50E-05
+694,694,tv_0.99;cup_0.60;vase_0.99;potted plant_0.92;microwave_0.59,a teddy bear sitting on top of a window sill .,1.50E-05
+695,695,tv_0.99;cup_0.60;vase_0.99;potted plant_0.92;microwave_0.59,a teddy bear sitting on top of a window sill .,1.50E-05
+696,696,cup_0.89;dining table_0.45;couch_0.83;bottle_0.54;tie_0.99;chair_0.99;refrigerator_0.99;clock_0.54;bowl_0.36,a group of people standing next to each other .,0.003325
+697,697,cup_0.82;dining table_0.48;potted plant_0.93;remote_0.80;couch_0.69;tv_0.99;chair_0.90;vase_0.86,a woman standing in front of a tv holding a wii controller .,0.000875
+698,698,cup_0.82;dining table_0.48;potted plant_0.93;remote_0.80;couch_0.69;tv_0.99;chair_0.90;vase_0.86,a woman standing in front of a tv holding a wii controller .,0.000875
+699,699,cup_0.82;dining table_0.48;potted plant_0.93;remote_0.80;couch_0.69;tv_0.99;chair_0.90;vase_0.86,a woman standing in front of a tv holding a wii controller .,0.000875
+700,700,cup_0.82;dining table_0.48;potted plant_0.93;remote_0.80;couch_0.69;tv_0.99;chair_0.90;vase_0.86,a woman standing in front of a tv holding a wii controller .,0.000875
+701,701,cup_0.82;dining table_0.48;potted plant_0.93;remote_0.80;couch_0.69;tv_0.99;chair_0.90;vase_0.86,a woman standing in front of a tv holding a wii controller .,0.000875
+702,702,cup_0.82;dining table_0.48;potted plant_0.93;remote_0.80;couch_0.69;tv_0.99;chair_0.90;vase_0.86,a woman standing in front of a tv holding a wii controller .,0.000875
+703,703,tv_0.86;chair_0.57;vase_0.99;potted plant_0.72;cup_0.47,a couple of women standing next to each other .,0.003472
+704,704,tv_0.86;chair_0.57;vase_0.99;potted plant_0.72;cup_0.47,a couple of women standing next to each other .,0.003472
+705,705,tv_0.86;chair_0.57;vase_0.99;potted plant_0.72;cup_0.47,a couple of women standing next to each other .,0.003472
+706,706,bottle_0.51;tie_0.99;bowl_0.92,a group of women standing next to each other .,0.000869
+707,707,cup_0.90;dining table_0.55;potted plant_0.92;couch_0.84;tv_0.98;bottle_0.87;chair_0.91;suitcase_0.55;traffic light_0.46;vase_0.58,a group of people standing around a table .,0.001632
+708,708,cup_0.90;dining table_0.55;potted plant_0.92;couch_0.84;tv_0.98;bottle_0.87;chair_0.91;suitcase_0.55;traffic light_0.46;vase_0.58,a group of people standing around a table .,0.001632
+709,709,cup_0.90;dining table_0.55;potted plant_0.92;couch_0.84;tv_0.98;bottle_0.87;chair_0.91;suitcase_0.55;traffic light_0.46;vase_0.58,a group of people standing around a table .,0.001632
+710,710,book_0.55;wine glass_0.50,a man in a suit and tie standing in a room .,0.0003
+711,711,bottle_0.74;refrigerator_0.92,a man in a suit and tie standing in a kitchen .,0.000405
+712,712,bottle_0.74;refrigerator_0.92,a man in a suit and tie standing in a kitchen .,0.000405
+713,713,bottle_0.74;refrigerator_0.92,a man in a suit and tie standing in a kitchen .,0.000405
+714,714,bottle_0.74;refrigerator_0.92,a man in a suit and tie standing in a kitchen .,0.000405
+715,715,cup_0.80;dining table_0.62;potted plant_0.92;couch_0.75;bench_0.44;chair_0.97;vase_0.91,a group of people sitting around a table .,0.005694
+716,716,tie_1.00;potted plant_0.60,a couple of men standing next to each other .,0.008045
+717,717,tie_1.00;potted plant_0.60,a couple of men standing next to each other .,0.008045
+718,718,tie_1.00;potted plant_0.60,a couple of men standing next to each other .,0.008045
+719,719,tie_1.00;potted plant_0.60,a couple of men standing next to each other .,0.008045
+720,720,tie_1.00;potted plant_0.60,a couple of men standing next to each other .,0.008045
+721,721,tie_1.00;potted plant_0.60,a couple of men standing next to each other .,0.008045
+722,722,cup_0.38;potted plant_0.79;couch_0.36;tv_0.66;tie_1.00;bed_0.39;vase_0.49,a group of people standing next to each other .,0.002226
+723,723,cup_0.38;potted plant_0.79;couch_0.36;tv_0.66;tie_1.00;bed_0.39;vase_0.49,a group of people standing next to each other .,0.002226
+724,724,cup_0.38;potted plant_0.79;couch_0.36;tv_0.66;tie_1.00;bed_0.39;vase_0.49,a group of people standing next to each other .,0.002226
+725,725,tie_1.00,a couple of men standing next to each other .,0.006023
+726,726,tie_1.00,a couple of men standing next to each other .,0.006023
+727,727,tie_1.00,a couple of men standing next to each other .,0.006023
+728,728,couch_0.45;chair_0.49;knife_0.63;bed_0.83,a woman sitting on a bed holding a book .,0.000245
+729,729,couch_0.45;chair_0.49;knife_0.63;bed_0.83,a woman sitting on a bed holding a book .,0.000245
+730,730,horse_0.54;tie_1.00;chair_0.53;remote_0.92,a couple of men standing next to each other .,0.006398
+731,731,horse_0.54;tie_1.00;chair_0.53;remote_0.92,a couple of men standing next to each other .,0.006398
+732,732,horse_0.54;tie_1.00;chair_0.53;remote_0.92,a couple of men standing next to each other .,0.006398
+733,733,horse_0.54;tie_1.00;chair_0.53;remote_0.92,a couple of men standing next to each other .,0.006398
+734,734,horse_0.54;tie_1.00;chair_0.53;remote_0.92,a couple of men standing next to each other .,0.006398
+735,735,tie_0.99;chair_0.76;apple_0.44;cup_0.57,a woman and a man standing next to each other .,0.001041
+736,736,tie_0.99;chair_0.76;apple_0.44;cup_0.57,a woman and a man standing next to each other .,0.001041
+737,737,tie_0.99;chair_0.76;apple_0.44;cup_0.57,a woman and a man standing next to each other .,0.001041
+738,738,tie_1.00;potted plant_0.36,a man and a woman standing next to each other .,0.00236
+739,739,tie_1.00;potted plant_0.36,a man and a woman standing next to each other .,0.00236
+740,740,tie_1.00;potted plant_0.36,a man and a woman standing next to each other .,0.00236
+741,741,tv_0.95;tie_1.00;cup_0.55;microwave_0.37,a man and a woman standing next to each other .,0.002652
+742,742,tv_0.95;tie_1.00;cup_0.55;microwave_0.37,a man and a woman standing next to each other .,0.002652
+743,743,tv_0.95;tie_1.00;cup_0.55;microwave_0.37,a man and a woman standing next to each other .,0.002652
+744,744,tv_0.95;tie_1.00;cup_0.55;microwave_0.37,a man and a woman standing next to each other .,0.002652
+745,745,tv_0.95;tie_1.00;cup_0.55;microwave_0.37,a man and a woman standing next to each other .,0.002652
+746,746,tv_0.95;tie_1.00;cup_0.55;microwave_0.37,a man and a woman standing next to each other .,0.002652
+747,747,tv_0.95;tie_1.00;cup_0.55;microwave_0.37,a man and a woman standing next to each other .,0.002652
+748,748,potted plant_0.93;sink_0.65;tie_1.00;chair_0.85;refrigerator_0.46;bird_0.73;vase_0.49,a man and a woman standing next to each other .,0.000851
+749,749,potted plant_0.93;sink_0.65;tie_1.00;chair_0.85;refrigerator_0.46;bird_0.73;vase_0.49,a man and a woman standing next to each other .,0.000851
+750,750,potted plant_0.93;sink_0.65;tie_1.00;chair_0.85;refrigerator_0.46;bird_0.73;vase_0.49,a man and a woman standing next to each other .,0.000851
+751,751,potted plant_0.93;sink_0.65;tie_1.00;chair_0.85;refrigerator_0.46;bird_0.73;vase_0.49,a man and a woman standing next to each other .,0.000851
+752,752,potted plant_0.93;sink_0.65;tie_1.00;chair_0.85;refrigerator_0.46;bird_0.73;vase_0.49,a man and a woman standing next to each other .,0.000851
+753,753,potted plant_0.93;sink_0.65;tie_1.00;chair_0.85;refrigerator_0.46;bird_0.73;vase_0.49,a man and a woman standing next to each other .,0.000851
+754,754,cup_0.86;potted plant_0.74;dining table_0.60;sink_0.97;bottle_0.82;tie_0.44;chair_0.97;refrigerator_1.00;suitcase_0.48;clock_0.53;handbag_0.51;vase_0.98,a group of people standing next to each other .,0.001996
+755,755,cup_0.86;potted plant_0.74;dining table_0.60;sink_0.97;bottle_0.82;tie_0.44;chair_0.97;refrigerator_1.00;suitcase_0.48;clock_0.53;handbag_0.51;vase_0.98,a group of people standing next to each other .,0.001996
+756,756,cup_0.86;potted plant_0.74;dining table_0.60;sink_0.97;bottle_0.82;tie_0.44;chair_0.97;refrigerator_1.00;suitcase_0.48;clock_0.53;handbag_0.51;vase_0.98,a group of people standing next to each other .,0.001996
+757,757,bottle_0.44;chair_0.41;refrigerator_0.92;dining table_0.58,a man and a woman standing next to each other .,0.000414
+758,758,bottle_0.44;chair_0.41;refrigerator_0.92;dining table_0.58,a man and a woman standing next to each other .,0.000414
+759,759,bottle_0.44;chair_0.41;refrigerator_0.92;dining table_0.58,a man and a woman standing next to each other .,0.000414
+760,760,bottle_0.66;bowl_0.41;refrigerator_0.44,a man and a woman playing a video game .,0.00023
+761,761,bottle_0.84;potted plant_0.43;chair_0.71;refrigerator_0.71;dining table_0.44,a man and a woman standing next to each other .,0.000884
+762,762,potted plant_0.52;wine glass_0.95;bottle_0.35;refrigerator_0.92;suitcase_0.64;vase_0.92,a man and a woman standing next to each other .,0.002859
+763,763,potted plant_0.52;wine glass_0.95;bottle_0.35;refrigerator_0.92;suitcase_0.64;vase_0.92,a man and a woman standing next to each other .,0.002859
+764,764,potted plant_0.52;wine glass_0.95;bottle_0.35;refrigerator_0.92;suitcase_0.64;vase_0.92,a man and a woman standing next to each other .,0.002859
+765,765,dining table_0.58;potted plant_0.72;bottle_0.69;tie_1.00;chair_0.99;refrigerator_0.92;vase_0.82,a man in a suit and tie standing in a room .,0.000857
+766,766,dining table_0.58;potted plant_0.72;bottle_0.69;tie_1.00;chair_0.99;refrigerator_0.92;vase_0.82,a man in a suit and tie standing in a room .,0.000857
+767,767,dining table_0.58;potted plant_0.72;bottle_0.69;tie_1.00;chair_0.99;refrigerator_0.92;vase_0.82,a man in a suit and tie standing in a room .,0.000857
+768,768,dining table_0.58;potted plant_0.72;bottle_0.69;tie_1.00;chair_0.99;refrigerator_0.92;vase_0.82,a man in a suit and tie standing in a room .,0.000857
+769,769,bottle_0.63;tie_0.89;vase_0.37;potted plant_0.36,a man in a suit and tie standing next to a woman .,0.000219
+770,770,couch_0.52;tie_1.00;chair_0.38;vase_0.85;potted plant_0.76,a man and a woman standing next to each other .,0.001114
+771,771,couch_0.52;tie_1.00;chair_0.38;vase_0.85;potted plant_0.76,a man and a woman standing next to each other .,0.001114
+772,772,couch_0.52;tie_1.00;chair_0.38;vase_0.85;potted plant_0.76,a man and a woman standing next to each other .,0.001114
+773,773,couch_0.52;tie_1.00;chair_0.38;vase_0.85;potted plant_0.76,a man and a woman standing next to each other .,0.001114
+774,774,couch_0.52;tie_1.00;chair_0.38;vase_0.85;potted plant_0.76,a man and a woman standing next to each other .,0.001114
+775,775,couch_0.52;tie_1.00;chair_0.38;vase_0.85;potted plant_0.76,a man and a woman standing next to each other .,0.001114
+776,776,chair_0.48;snowboard_0.40,a group of people standing next to each other .,0.003491
+777,777,chair_0.48;snowboard_0.40,a group of people standing next to each other .,0.003491
+778,778,chair_0.48;snowboard_0.40,a group of people standing next to each other .,0.003491
+779,779,chair_0.48;snowboard_0.40,a group of people standing next to each other .,0.003491
+780,780,chair_0.48;snowboard_0.40,a group of people standing next to each other .,0.003491
+781,781,bottle_0.39;tie_1.00,a group of men standing next to each other .,0.001646
+782,782,couch_0.61;tie_0.99,a man and a woman standing next to each other .,0.001463
+783,783,couch_0.61;tie_0.99,a man and a woman standing next to each other .,0.001463
+784,784,couch_0.61;tie_0.99,a man and a woman standing next to each other .,0.001463
+785,785,tie_0.66,a group of people standing next to each other .,0.005381
+786,786,tie_0.66,a group of people standing next to each other .,0.005381
+787,787,tie_0.66,a group of people standing next to each other .,0.005381
+788,788,couch_0.50;tie_0.99;potted plant_0.57,a man and a woman standing next to each other .,0.001514
+789,789,cup_0.66;potted plant_0.93;couch_0.63;tv_0.57;tie_1.00;chair_0.40;bed_0.46;suitcase_0.46;vase_0.99,a man and a woman standing next to each other .,0.001467
+790,790,cup_0.66;potted plant_0.93;couch_0.63;tv_0.57;tie_1.00;chair_0.40;bed_0.46;suitcase_0.46;vase_0.99,a man and a woman standing next to each other .,0.001467
+791,791,cup_0.66;potted plant_0.93;couch_0.63;tv_0.57;tie_1.00;chair_0.40;bed_0.46;suitcase_0.46;vase_0.99,a man and a woman standing next to each other .,0.001467
+792,792,cup_0.66;potted plant_0.93;couch_0.63;tv_0.57;tie_1.00;chair_0.40;bed_0.46;suitcase_0.46;vase_0.99,a man and a woman standing next to each other .,0.001467
+793,793,cup_0.57;potted plant_0.87;sink_0.84;teddy bear_0.59;bottle_0.61;tie_0.99;refrigerator_1.00;clock_0.35,a man and a woman standing next to each other .,0.001619
+794,794,cup_0.57;potted plant_0.87;sink_0.84;teddy bear_0.59;bottle_0.61;tie_0.99;refrigerator_1.00;clock_0.35,a man and a woman standing next to each other .,0.001619
+795,795,cup_0.57;potted plant_0.87;sink_0.84;teddy bear_0.59;bottle_0.61;tie_0.99;refrigerator_1.00;clock_0.35,a man and a woman standing next to each other .,0.001619
+796,796,cup_0.57;potted plant_0.87;sink_0.84;teddy bear_0.59;bottle_0.61;tie_0.99;refrigerator_1.00;clock_0.35,a man and a woman standing next to each other .,0.001619
+797,797,cup_0.57;potted plant_0.87;sink_0.84;teddy bear_0.59;bottle_0.61;tie_0.99;refrigerator_1.00;clock_0.35,a man and a woman standing next to each other .,0.001619
+798,798,cup_0.57;potted plant_0.87;sink_0.84;teddy bear_0.59;bottle_0.61;tie_0.99;refrigerator_1.00;clock_0.35,a man and a woman standing next to each other .,0.001619
+799,799,cup_0.78;sink_0.62;potted plant_0.66;couch_0.99;dining table_0.37;tie_0.52;chair_1.00;refrigerator_0.98,a woman standing in a living room next to a couch .,0.000185
+800,800,cup_0.78;sink_0.62;potted plant_0.66;couch_0.99;dining table_0.37;tie_0.52;chair_1.00;refrigerator_0.98,a woman standing in a living room next to a couch .,0.000185
+801,801,couch_0.38;bottle_0.47;cup_0.52;tv_0.42,a woman sitting at a table with a plate of food .,0.000444
+802,802,couch_0.38;bottle_0.47;cup_0.52;tv_0.42,a woman sitting at a table with a plate of food .,0.000444
+803,803,couch_0.38;bottle_0.47;cup_0.52;tv_0.42,a woman sitting at a table with a plate of food .,0.000444
+804,804,couch_0.38;bottle_0.47;cup_0.52;tv_0.42,a woman sitting at a table with a plate of food .,0.000444
+805,805,couch_0.38;bottle_0.47;cup_0.52;tv_0.42,a woman sitting at a table with a plate of food .,0.000444
+806,806,couch_0.38;bottle_0.47;cup_0.52;tv_0.42,a woman sitting at a table with a plate of food .,0.000444
+807,807,couch_0.38;bottle_0.47;cup_0.52;tv_0.42,a woman sitting at a table with a plate of food .,0.000444
+808,808,book_0.57;bottle_0.82;handbag_0.36;wine glass_0.47;cup_0.66,a man in a suit and tie standing in a room .,0.001392
+809,809,book_0.57;bottle_0.82;handbag_0.36;wine glass_0.47;cup_0.66,a man in a suit and tie standing in a room .,0.001392
+810,810,cup_0.63;potted plant_0.74;dining table_0.89;couch_0.66;bottle_0.51;tie_0.97;chair_0.99;vase_0.84,a group of people standing around a table .,0.002324
+811,811,cup_0.63;potted plant_0.74;dining table_0.89;couch_0.66;bottle_0.51;tie_0.97;chair_0.99;vase_0.84,a group of people standing around a table .,0.002324
+812,812,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+813,813,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+814,814,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+815,815,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+816,816,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+817,817,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+818,818,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+819,819,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+820,820,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+821,821,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+822,822,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+823,823,cup_0.92;potted plant_0.88;dining table_0.92;couch_0.98;bicycle_0.39;wine glass_0.76;book_0.57;bottle_0.87;chair_0.74;vase_0.93,a man in a suit and tie standing in a room .,0.000724
+824,824,cup_0.73;potted plant_0.91;surfboard_0.42;bottle_0.94;chair_0.57;bed_0.59;vase_0.97,a woman sitting on a couch holding a laptop .,0.000552
+825,825,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+826,826,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+827,827,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+828,828,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+829,829,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+830,830,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+831,831,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+832,832,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+833,833,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+834,834,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+835,835,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+836,836,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+837,837,potted plant_0.52;couch_0.85;wine glass_0.81;bottle_0.99;chair_0.54;bed_0.76,a couple of people that are sitting on a bed,0.000343
+838,838,cup_0.87;potted plant_0.93;couch_0.70;bottle_0.89;refrigerator_0.77;cow_0.64;bed_0.54;vase_0.97,a woman sitting on a couch holding a wii remote .,0.000482
+839,839,cup_0.87;potted plant_0.93;couch_0.70;bottle_0.89;refrigerator_0.77;cow_0.64;bed_0.54;vase_0.97,a woman sitting on a couch holding a wii remote .,0.000482
+840,840,cup_0.87;potted plant_0.93;couch_0.70;bottle_0.89;refrigerator_0.77;cow_0.64;bed_0.54;vase_0.97,a woman sitting on a couch holding a wii remote .,0.000482
+841,841,couch_0.66;bottle_0.96;chair_0.56;bed_0.73,a man and a woman sitting at a table .,0.000152
+842,842,couch_0.66;bottle_0.96;chair_0.56;bed_0.73,a man and a woman sitting at a table .,0.000152
+843,843,couch_0.59;bottle_0.89;refrigerator_0.73;vase_0.93;potted plant_0.85,a woman sitting on a couch holding a cell phone .,0.000528
+844,844,couch_0.87;bottle_0.96;horse_0.36;chair_0.53;potted plant_0.39,a man holding a glass of wine in his hand .,0.000247
+845,845,couch_0.87;bottle_0.96;horse_0.36;chair_0.53;potted plant_0.39,a man holding a glass of wine in his hand .,0.000247
+846,846,couch_0.87;bottle_0.96;horse_0.36;chair_0.53;potted plant_0.39,a man holding a glass of wine in his hand .,0.000247
+847,847,couch_0.87;bottle_0.96;horse_0.36;chair_0.53;potted plant_0.39,a man holding a glass of wine in his hand .,0.000247
+848,848,couch_0.87;bottle_0.96;horse_0.36;chair_0.53;potted plant_0.39,a man holding a glass of wine in his hand .,0.000247
+849,849,couch_0.87;bottle_0.96;horse_0.36;chair_0.53;potted plant_0.39,a man holding a glass of wine in his hand .,0.000247
+850,850,couch_0.87;bottle_0.96;horse_0.36;chair_0.53;potted plant_0.39,a man holding a glass of wine in his hand .,0.000247
+851,851,couch_0.87;bottle_0.96;horse_0.36;chair_0.53;potted plant_0.39,a man holding a glass of wine in his hand .,0.000247
+852,852,cup_0.71;potted plant_0.91;couch_0.71;umbrella_0.49;bottle_0.85;chair_0.44;refrigerator_0.79;vase_0.93,a woman sitting on a couch holding a wii remote .,0.000578
+853,853,cup_0.71;potted plant_0.91;couch_0.71;umbrella_0.49;bottle_0.85;chair_0.44;refrigerator_0.79;vase_0.93,a woman sitting on a couch holding a wii remote .,0.000578
+854,854,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+855,855,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+856,856,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+857,857,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+858,858,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+859,859,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+860,860,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+861,861,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+862,862,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+863,863,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+864,864,couch_0.38;tie_0.99;traffic light_0.69;bed_0.99,a woman standing in a room with a bed .,0.000241
+865,865,tv_0.38;tie_0.43;spoon_0.38,a man and a woman standing next to each other .,0.000477
+866,866,tv_0.38;tie_0.43;spoon_0.38,a man and a woman standing next to each other .,0.000477
+867,867,tv_0.38;tie_0.43;spoon_0.38,a man and a woman standing next to each other .,0.000477
+868,868,tv_0.38;tie_0.43;spoon_0.38,a man and a woman standing next to each other .,0.000477
+869,869,tv_0.38;tie_0.43;spoon_0.38,a man and a woman standing next to each other .,0.000477
+870,870,tv_0.38;tie_0.43;spoon_0.38,a man and a woman standing next to each other .,0.000477
+871,871,tv_0.38;tie_0.43;spoon_0.38,a man and a woman standing next to each other .,0.000477
+872,872,tie_1.00,a man and a woman standing next to each other .,0.001492
+873,873,tie_1.00,a man and a woman standing next to each other .,0.001492
+874,874,tie_1.00,a man and a woman standing next to each other .,0.001492
+875,875,tie_0.59,a man and a woman standing next to each other .,0.001774
+876,876,tie_0.59,a man and a woman standing next to each other .,0.001774
+877,877,tie_0.92,a man and a woman standing next to each other .,0.002583
+878,878,tv_0.54;spoon_0.39,a couple of people standing next to each other .,0.002494
+879,879,tie_1.00,a man in a suit and tie standing in a room .,0.000195
+880,880,tie_1.00,a man in a suit and tie standing in a room .,0.000195
+881,881,tie_1.00,a man in a suit and tie standing in a room .,0.000195
+882,882,tie_1.00,a man in a suit and tie standing in a room .,0.000195
+883,883,tv_0.52;tie_0.41,a man and a woman standing next to each other .,0.001213
+884,884,tv_0.52;tie_0.41,a man and a woman standing next to each other .,0.001213
+885,885,tv_0.52;tie_0.41,a man and a woman standing next to each other .,0.001213
+886,886,tv_0.52;tie_0.41,a man and a woman standing next to each other .,0.001213
+887,887,tv_0.52;tie_0.41,a man and a woman standing next to each other .,0.001213
+888,888,dining table_0.66;potted plant_0.71;couch_0.52;tie_0.97;bed_0.84;vase_0.57,a man and a woman standing next to each other .,0.002996
+889,889,dining table_0.66;potted plant_0.71;couch_0.52;tie_0.97;bed_0.84;vase_0.57,a man and a woman standing next to each other .,0.002996
+890,890,dining table_0.66;potted plant_0.71;couch_0.52;tie_0.97;bed_0.84;vase_0.57,a man and a woman standing next to each other .,0.002996
+891,891,dining table_0.66;potted plant_0.71;couch_0.52;tie_0.97;bed_0.84;vase_0.57,a man and a woman standing next to each other .,0.002996
+892,892,tv_0.97,a woman standing in front of a mirror in a room .,0.000294
+893,893,tv_0.97,a woman standing in front of a mirror in a room .,0.000294
+894,894,tie_0.99;bed_0.48,a man in a suit and tie standing in a room .,0.000675
+895,895,traffic light_0.57;tie_0.99;bed_0.99,a man and a woman standing in a room .,0.00087
+896,896,traffic light_0.57;tie_0.99;bed_0.99,a man and a woman standing in a room .,0.00087
+897,897,potted plant_0.56;remote_0.72;book_0.78;tie_0.94;chair_0.99;bed_1.00,a woman standing in front of a bed in a bedroom .,0.000327
+898,898,potted plant_0.56;remote_0.72;book_0.78;tie_0.94;chair_0.99;bed_1.00,a woman standing in front of a bed in a bedroom .,0.000327
+899,899,potted plant_0.56;remote_0.72;book_0.78;tie_0.94;chair_0.99;bed_1.00,a woman standing in front of a bed in a bedroom .,0.000327
+900,900,potted plant_0.56;remote_0.72;book_0.78;tie_0.94;chair_0.99;bed_1.00,a woman standing in front of a bed in a bedroom .,0.000327
+901,901,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+902,902,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+903,903,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+904,904,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+905,905,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+906,906,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+907,907,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+908,908,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+909,909,handbag_0.35;potted plant_0.45;book_0.68;tie_0.99;chair_0.45;suitcase_0.62;cell phone_0.84;bowl_0.49,a man in a suit and tie standing in a room .,0.00091
+910,910,,a woman in a white dress standing in a room .,8.00E-05
+911,911,,a woman in a white dress standing in a room .,8.00E-05
+912,912,suitcase_0.44;tie_1.00;chair_0.70;vase_0.57;fork_0.49,a man in a suit and tie standing in a room .,0.00092
+913,913,suitcase_0.44;tie_1.00;chair_0.70;vase_0.57;fork_0.49,a man in a suit and tie standing in a room .,0.00092
+914,914,suitcase_0.44;tie_1.00;chair_0.70;vase_0.57;fork_0.49,a man in a suit and tie standing in a room .,0.00092
+915,915,suitcase_0.44;tie_1.00;chair_0.70;vase_0.57;fork_0.49,a man in a suit and tie standing in a room .,0.00092
+916,916,suitcase_0.44;tie_1.00;chair_0.70;vase_0.57;fork_0.49,a man in a suit and tie standing in a room .,0.00092
+917,917,cell phone_0.39;vase_0.98;potted plant_0.90,a woman standing in front of a mirror in a bathroom .,0.000276
+918,918,cell phone_0.39;vase_0.98;potted plant_0.90,a woman standing in front of a mirror in a bathroom .,0.000276
+919,919,cell phone_0.39;vase_0.98;potted plant_0.90,a woman standing in front of a mirror in a bathroom .,0.000276
+920,920,cell phone_0.39;vase_0.98;potted plant_0.90,a woman standing in front of a mirror in a bathroom .,0.000276
+921,921,potted plant_0.67;bottle_0.83;tie_0.99;bed_0.99;clock_0.42;vase_0.81,a man and a woman standing in a living room .,0.000337
+922,922,potted plant_0.67;bottle_0.83;tie_0.99;bed_0.99;clock_0.42;vase_0.81,a man and a woman standing in a living room .,0.000337
+923,923,potted plant_0.67;bottle_0.83;tie_0.99;bed_0.99;clock_0.42;vase_0.81,a man and a woman standing in a living room .,0.000337
+924,924,potted plant_0.67;bottle_0.83;tie_0.99;bed_0.99;clock_0.42;vase_0.81,a man and a woman standing in a living room .,0.000337
+925,925,book_0.53;tie_1.00,a man and a woman standing in a room .,0.000217
+926,926,book_0.53;tie_1.00,a man and a woman standing in a room .,0.000217
+927,927,book_0.53;tie_1.00,a man and a woman standing in a room .,0.000217
+928,928,book_0.53;tie_1.00,a man and a woman standing in a room .,0.000217
+929,929,remote_0.81;chair_0.35;vase_0.98;bird_0.69,a woman holding a nintendo wii game controller .,0.003807
+930,930,remote_0.81;chair_0.35;vase_0.98;bird_0.69,a woman holding a nintendo wii game controller .,0.003807
+931,931,remote_0.81;chair_0.35;vase_0.98;bird_0.69,a woman holding a nintendo wii game controller .,0.003807
+932,932,tv_0.91;donut_0.89,a man holding a nintendo wii game controller .,0.006152
+933,933,tv_0.91;donut_0.89,a man holding a nintendo wii game controller .,0.006152
+934,934,tv_0.91;donut_0.89,a man holding a nintendo wii game controller .,0.006152
+935,935,tv_0.91;donut_0.89,a man holding a nintendo wii game controller .,0.006152
+936,936,tv_0.91;donut_0.89,a man holding a nintendo wii game controller .,0.006152
+937,937,bottle_0.50;potted plant_0.73,a man and a woman playing a video game .,0.000909
+938,938,bottle_0.50;potted plant_0.73,a man and a woman playing a video game .,0.000909
+939,939,bottle_0.50;potted plant_0.73,a man and a woman playing a video game .,0.000909
+940,940,bottle_0.50;potted plant_0.73,a man and a woman playing a video game .,0.000909
+941,941,tv_0.41;book_0.50,a man is playing a video game in a living room .,0.000124
+942,942,tv_0.41;book_0.50,a man is playing a video game in a living room .,0.000124
+943,943,tv_0.41;book_0.50,a man is playing a video game in a living room .,0.000124
+944,944,tv_0.41;book_0.50,a man is playing a video game in a living room .,0.000124
+945,945,tv_0.41;book_0.50,a man is playing a video game in a living room .,0.000124
+946,946,bottle_0.63;chair_0.50,a woman is playing a video game in a living room .,7.90E-05
+947,947,bottle_0.63;chair_0.50,a woman is playing a video game in a living room .,7.90E-05
+948,948,tv_0.51;cake_0.35;tie_0.98,a woman holding a nintendo wii game controller .,0.005921
+949,949,tv_0.51;cake_0.35;tie_0.98,a woman holding a nintendo wii game controller .,0.005921
+950,950,tv_0.51;cake_0.35;tie_0.98,a woman holding a nintendo wii game controller .,0.005921
+951,951,cup_0.58;knife_0.69;potted plant_0.69;bottle_0.59;bed_0.99;bowl_0.51;vase_0.94,a man and woman standing in a room .,0.00065
+952,952,cup_0.58;knife_0.69;potted plant_0.69;bottle_0.59;bed_0.99;bowl_0.51;vase_0.94,a man and woman standing in a room .,0.00065
+953,953,cup_0.58;knife_0.69;potted plant_0.69;bottle_0.59;bed_0.99;bowl_0.51;vase_0.94,a man and woman standing in a room .,0.00065
+954,954,cup_0.58;knife_0.69;potted plant_0.69;bottle_0.59;bed_0.99;bowl_0.51;vase_0.94,a man and woman standing in a room .,0.00065
+955,955,cup_0.58;knife_0.69;potted plant_0.69;bottle_0.59;bed_0.99;bowl_0.51;vase_0.94,a man and woman standing in a room .,0.00065
+956,956,clock_0.65,a woman standing next to a woman in a kitchen .,0.000178
+957,957,clock_0.65,a woman standing next to a woman in a kitchen .,0.000178
+958,958,clock_0.65,a woman standing next to a woman in a kitchen .,0.000178
+959,959,clock_0.65,a woman standing next to a woman in a kitchen .,0.000178
+960,960,,a woman in a white dress and a man in a bathroom,0
+961,961,,a woman in a white dress and a man in a bathroom,0
+962,962,,a woman in a red dress is talking on a cell phone .,1.40E-05
+963,963,,a woman in a red dress is talking on a cell phone .,1.40E-05
+964,964,,a woman in a red dress is talking on a cell phone .,1.40E-05
+965,965,tv_0.49;book_0.72;tie_0.97;bed_0.97,a man in a suit and tie sitting in a chair .,0.000387
+966,966,tv_0.49;book_0.72;tie_0.97;bed_0.97,a man in a suit and tie sitting in a chair .,0.000387
+967,967,book_0.51;vase_0.45;potted plant_0.69,a woman and a man standing next to each other .,0.000939
+968,968,book_0.51;vase_0.45;potted plant_0.69,a woman and a man standing next to each other .,0.000939
+969,969,book_0.51;vase_0.45;potted plant_0.69,a woman and a man standing next to each other .,0.000939
+970,970,dining table_0.70;potted plant_0.93;tv_0.84;bottle_0.94;chair_0.94;refrigerator_1.00,a man sitting at a table in a restaurant .,0.000232
+971,971,cup_0.97;dining table_0.85;oven_0.93;bottle_0.98;chair_0.98;sandwich_0.78,a man sitting at a table with a plate of food .,0.002951
+972,972,cup_0.97;dining table_0.85;oven_0.93;bottle_0.98;chair_0.98;sandwich_0.78,a man sitting at a table with a plate of food .,0.002951
+973,973,cup_0.97;dining table_0.85;oven_0.93;bottle_0.98;chair_0.98;sandwich_0.78,a man sitting at a table with a plate of food .,0.002951
+974,974,cup_0.97;dining table_0.85;oven_0.93;bottle_0.98;chair_0.98;sandwich_0.78,a man sitting at a table with a plate of food .,0.002951
+975,975,potted plant_0.99;dining table_0.46;sink_0.61;oven_1.00;wine glass_0.59;bottle_0.92;book_0.57;chair_1.00;refrigerator_1.00;clock_0.92,a man standing in front of a refrigerator .,0.00152
+976,976,potted plant_0.99;dining table_0.46;sink_0.61;oven_1.00;wine glass_0.59;bottle_0.92;book_0.57;chair_1.00;refrigerator_1.00;clock_0.92,a man standing in front of a refrigerator .,0.00152
+977,977,potted plant_0.99;dining table_0.46;sink_0.61;oven_1.00;wine glass_0.59;bottle_0.92;book_0.57;chair_1.00;refrigerator_1.00;clock_0.92,a man standing in front of a refrigerator .,0.00152
+978,978,cup_0.97;handbag_0.42;oven_0.99;hot dog_0.46;backpack_0.48;spoon_0.98;bottle_0.99;chair_0.97;sandwich_0.64;bowl_0.51,a man is eating a doughnut in a store .,6.10E-05
+979,979,cup_0.97;handbag_0.42;oven_0.99;hot dog_0.46;backpack_0.48;spoon_0.98;bottle_0.99;chair_0.97;sandwich_0.64;bowl_0.51,a man is eating a doughnut in a store .,6.10E-05
+980,980,cup_0.97;handbag_0.42;oven_0.99;hot dog_0.46;backpack_0.48;spoon_0.98;bottle_0.99;chair_0.97;sandwich_0.64;bowl_0.51,a man is eating a doughnut in a store .,6.10E-05
+981,981,cup_0.91;potted plant_0.79;cake_0.69;book_0.54;chair_0.74;refrigerator_0.70;vase_0.90,a woman standing in front of a refrigerator .,0.000272
+982,982,cup_0.91;potted plant_0.79;cake_0.69;book_0.54;chair_0.74;refrigerator_0.70;vase_0.90,a woman standing in front of a refrigerator .,0.000272
+983,983,cup_0.91;potted plant_0.79;cake_0.69;book_0.54;chair_0.74;refrigerator_0.70;vase_0.90,a woman standing in front of a refrigerator .,0.000272
+984,984,cup_0.91;potted plant_0.79;cake_0.69;book_0.54;chair_0.74;refrigerator_0.70;vase_0.90,a woman standing in front of a refrigerator .,0.000272
+985,985,cup_0.91;potted plant_0.79;cake_0.69;book_0.54;chair_0.74;refrigerator_0.70;vase_0.90,a woman standing in front of a refrigerator .,0.000272
+986,986,cup_0.82;sandwich_0.62;potted plant_0.47;oven_0.99;hot dog_0.58;spoon_0.62;bottle_0.99;cake_0.40;chair_0.92;donut_0.63,a man holding a hot dog on a bun .,0.00014
+987,987,cup_0.82;sandwich_0.62;potted plant_0.47;oven_0.99;hot dog_0.58;spoon_0.62;bottle_0.99;cake_0.40;chair_0.92;donut_0.63,a man holding a hot dog on a bun .,0.00014
+988,988,cup_0.82;sandwich_0.62;potted plant_0.47;oven_0.99;hot dog_0.58;spoon_0.62;bottle_0.99;cake_0.40;chair_0.92;donut_0.63,a man holding a hot dog on a bun .,0.00014
+989,989,chair_0.59;refrigerator_0.78;vase_0.84;potted plant_0.76,a woman standing in front of a refrigerator .,0.000721
+990,990,chair_0.59;refrigerator_0.78;vase_0.84;potted plant_0.76,a woman standing in front of a refrigerator .,0.000721
+991,991,chair_0.59;refrigerator_0.78;vase_0.84;potted plant_0.76,a woman standing in front of a refrigerator .,0.000721
+992,992,chair_0.59;refrigerator_0.78;vase_0.84;potted plant_0.76,a woman standing in front of a refrigerator .,0.000721
+993,993,cup_0.96;sandwich_0.70;potted plant_0.38;oven_0.99;hot dog_0.59;bottle_0.99;chair_0.89;donut_0.39,a man is holding a doughnut in his hand .,8.80E-05
+994,994,cup_0.96;sandwich_0.70;potted plant_0.38;oven_0.99;hot dog_0.59;bottle_0.99;chair_0.89;donut_0.39,a man is holding a doughnut in his hand .,8.80E-05
+995,995,cup_0.96;sandwich_0.70;potted plant_0.38;oven_0.99;hot dog_0.59;bottle_0.99;chair_0.89;donut_0.39,a man is holding a doughnut in his hand .,8.80E-05
+996,996,dining table_0.46;potted plant_0.83;hot dog_0.60;bottle_0.93;chair_0.77;refrigerator_1.00;cow_0.36;sandwich_0.52;clock_0.41,a group of people standing around a table .,0.000701
+997,997,dining table_0.46;potted plant_0.83;hot dog_0.60;bottle_0.93;chair_0.77;refrigerator_1.00;cow_0.36;sandwich_0.52;clock_0.41,a group of people standing around a table .,0.000701
+998,998,dining table_0.46;potted plant_0.83;hot dog_0.60;bottle_0.93;chair_0.77;refrigerator_1.00;cow_0.36;sandwich_0.52;clock_0.41,a group of people standing around a table .,0.000701
+999,999,cup_0.96;oven_0.80;bottle_0.98;chair_0.94;sandwich_0.92;handbag_0.36,a man holding a box of donuts in front of him .,2.20E-05
+1000,1000,cup_0.96;oven_0.80;bottle_0.98;chair_0.94;sandwich_0.92;handbag_0.36,a man holding a box of donuts in front of him .,2.20E-05
+1001,1001,chair_0.60;refrigerator_0.73;vase_0.87;potted plant_0.74,a woman standing in front of a refrigerator .,0.00045
+1002,1002,chair_0.60;refrigerator_0.73;vase_0.87;potted plant_0.74,a woman standing in front of a refrigerator .,0.00045
+1003,1003,cup_0.95;oven_0.93;bottle_0.98;chair_0.93;sandwich_0.68;handbag_0.35,a man holding a bottle of beer in his hand .,0.000131
+1004,1004,bed_0.98,a man laying on a bed with a laptop .,0.000124
+1005,1005,bed_0.98,a man laying on a bed with a laptop .,0.000124
+1006,1006,bed_0.98,a man laying on a bed with a laptop .,0.000124
+1007,1007,teddy bear_0.79;book_0.53;tie_1.00;chair_0.51,a man in a suit and tie standing in a room .,0.000366
+1008,1008,teddy bear_0.79;book_0.53;tie_1.00;chair_0.51,a man in a suit and tie standing in a room .,0.000366
+1009,1009,teddy bear_0.79;book_0.53;tie_1.00;chair_0.51,a man in a suit and tie standing in a room .,0.000366
+1010,1010,tie_0.99,a woman standing in front of a mirror in a bathroom .,0.000853
+1011,1011,tie_0.99,a woman standing in front of a mirror in a bathroom .,0.000853
+1012,1012,bed_0.63,a woman standing in a room with a red tie .,2.30E-05
+1013,1013,bed_0.63,a woman standing in a room with a red tie .,2.30E-05
+1014,1014,tie_0.99,a group of people standing next to each other .,0.000714
+1015,1015,tie_0.99,a group of people standing next to each other .,0.000714
+1016,1016,tie_0.99,a group of people standing next to each other .,0.000714
+1017,1017,tie_0.99,a group of people standing next to each other .,0.000714
+1018,1018,tie_0.99,a group of people standing next to each other .,0.000714
+1019,1019,tie_1.00;bed_0.57,a man in a suit and tie standing in a kitchen .,0.000203
+1020,1020,tie_1.00;bed_0.57,a man in a suit and tie standing in a kitchen .,0.000203
+1021,1021,tie_0.65;bed_0.42,a couple of women standing next to each other .,0.006801
+1022,1022,tie_0.65;bed_0.42,a couple of women standing next to each other .,0.006801
+1023,1023,tie_0.65;bed_0.42,a couple of women standing next to each other .,0.006801
+1024,1024,couch_0.45;train_0.43;vase_0.98;potted plant_0.88,a couple of women standing next to each other .,0.00284
+1025,1025,couch_0.45;train_0.43;vase_0.98;potted plant_0.88,a couple of women standing next to each other .,0.00284
+1026,1026,couch_0.45;train_0.43;vase_0.98;potted plant_0.88,a couple of women standing next to each other .,0.00284
+1027,1027,couch_0.45;train_0.43;vase_0.98;potted plant_0.88,a couple of women standing next to each other .,0.00284
+1028,1028,tie_0.37;refrigerator_0.49,a couple of women standing next to each other .,0.007488
+1029,1029,tie_0.37;refrigerator_0.49,a couple of women standing next to each other .,0.007488
+1030,1030,tie_0.37;refrigerator_0.49,a couple of women standing next to each other .,0.007488
+1031,1031,tie_0.37;refrigerator_0.49,a couple of women standing next to each other .,0.007488
+1032,1032,tie_0.37;refrigerator_0.49,a couple of women standing next to each other .,0.007488
+1033,1033,tie_1.00;sports ball_0.97;refrigerator_0.76,a man and a woman posing for a picture .,0.001149
+1034,1034,tie_1.00;sports ball_0.97;refrigerator_0.76,a man and a woman posing for a picture .,0.001149
+1035,1035,tie_1.00;sports ball_0.97;refrigerator_0.76,a man and a woman posing for a picture .,0.001149
+1036,1036,cup_0.48;potted plant_0.50;dining table_0.41;couch_0.98;bottle_0.49;book_0.49;chair_1.00;refrigerator_1.00;bed_0.81;vase_0.90,a woman standing in a living room next to a couch .,0.000306
+1037,1037,cup_0.48;potted plant_0.50;dining table_0.41;couch_0.98;bottle_0.49;book_0.49;chair_1.00;refrigerator_1.00;bed_0.81;vase_0.90,a woman standing in a living room next to a couch .,0.000306
+1038,1038,cup_0.84;sink_0.52;hot dog_0.37;bottle_0.95;bowl_0.75;vase_0.69,a woman in a dress holding a cell phone .,3.10E-05
+1039,1039,cup_0.84;sink_0.52;hot dog_0.37;bottle_0.95;bowl_0.75;vase_0.69,a woman in a dress holding a cell phone .,3.10E-05
+1040,1040,cup_0.84;sink_0.52;hot dog_0.37;bottle_0.95;bowl_0.75;vase_0.69,a woman in a dress holding a cell phone .,3.10E-05
+1041,1041,cup_0.84;sink_0.52;hot dog_0.37;bottle_0.95;bowl_0.75;vase_0.69,a woman in a dress holding a cell phone .,3.10E-05
+1042,1042,book_0.64;tie_1.00,a man in a suit and tie standing in a room .,0.000577
+1043,1043,book_0.64;tie_1.00,a man in a suit and tie standing in a room .,0.000577
+1044,1044,bottle_0.92;bowl_0.68;refrigerator_0.50;cup_0.92;sink_0.45,a woman standing in a kitchen holding a bottle of wine .,9.60E-05
+1045,1045,bottle_0.92;bowl_0.68;refrigerator_0.50;cup_0.92;sink_0.45,a woman standing in a kitchen holding a bottle of wine .,9.60E-05
+1046,1046,bottle_0.92;bowl_0.68;refrigerator_0.50;cup_0.92;sink_0.45,a woman standing in a kitchen holding a bottle of wine .,9.60E-05
+1047,1047,potted plant_0.82;book_0.67;tie_0.95;chair_0.95;handbag_0.47;vase_0.90,a woman and a man standing next to each other .,0.0007
+1048,1048,potted plant_0.82;book_0.67;tie_0.95;chair_0.95;handbag_0.47;vase_0.90,a woman and a man standing next to each other .,0.0007
+1049,1049,potted plant_0.82;book_0.67;tie_0.95;chair_0.95;handbag_0.47;vase_0.90,a woman and a man standing next to each other .,0.0007
+1050,1050,potted plant_0.82;book_0.67;tie_0.95;chair_0.95;handbag_0.47;vase_0.90,a woman and a man standing next to each other .,0.0007
+1051,1051,potted plant_0.82;book_0.67;tie_0.95;chair_0.95;handbag_0.47;vase_0.90,a woman and a man standing next to each other .,0.0007
+1052,1052,bottle_0.96;bowl_0.45;vase_0.63;cup_0.93;sink_0.78,a woman standing in a kitchen preparing food .,0.002522
+1053,1053,bottle_0.96;bowl_0.45;vase_0.63;cup_0.93;sink_0.78,a woman standing in a kitchen preparing food .,0.002522
+1054,1054,chair_0.96;refrigerator_0.42;vase_0.92;potted plant_0.62,a woman sitting at a table with a glass of wine .,0.000371
+1055,1055,potted plant_0.75;dining table_0.95;tv_0.98;bottle_0.47;book_0.56;chair_0.98;tie_0.86;refrigerator_0.43,a group of people standing around a table .,0.002261
+1056,1056,potted plant_0.75;dining table_0.95;tv_0.98;bottle_0.47;book_0.56;chair_0.98;tie_0.86;refrigerator_0.43,a group of people standing around a table .,0.002261
+1057,1057,cup_0.86;potted plant_0.83;knife_0.41;microwave_0.42;tv_0.99;keyboard_0.59;suitcase_0.40;handbag_0.44,a woman sitting on a couch with a laptop .,4.50E-05
+1058,1058,cup_0.86;potted plant_0.83;knife_0.41;microwave_0.42;tv_0.99;keyboard_0.59;suitcase_0.40;handbag_0.44,a woman sitting on a couch with a laptop .,4.50E-05
+1059,1059,cup_0.86;potted plant_0.83;knife_0.41;microwave_0.42;tv_0.99;keyboard_0.59;suitcase_0.40;handbag_0.44,a woman sitting on a couch with a laptop .,4.50E-05
+1060,1060,cup_0.86;potted plant_0.83;knife_0.41;microwave_0.42;tv_0.99;keyboard_0.59;suitcase_0.40;handbag_0.44,a woman sitting on a couch with a laptop .,4.50E-05
+1061,1061,cup_0.86;potted plant_0.83;knife_0.41;microwave_0.42;tv_0.99;keyboard_0.59;suitcase_0.40;handbag_0.44,a woman sitting on a couch with a laptop .,4.50E-05
+1062,1062,cup_0.86;potted plant_0.83;knife_0.41;microwave_0.42;tv_0.99;keyboard_0.59;suitcase_0.40;handbag_0.44,a woman sitting on a couch with a laptop .,4.50E-05
+1063,1063,cup_0.86;potted plant_0.83;knife_0.41;microwave_0.42;tv_0.99;keyboard_0.59;suitcase_0.40;handbag_0.44,a woman sitting on a couch with a laptop .,4.50E-05
+1064,1064,cup_0.86;potted plant_0.83;knife_0.41;microwave_0.42;tv_0.99;keyboard_0.59;suitcase_0.40;handbag_0.44,a woman sitting on a couch with a laptop .,4.50E-05
+1065,1065,tie_1.00;remote_0.86,a group of men standing next to each other .,0.003516
+1066,1066,tie_1.00;remote_0.86,a group of men standing next to each other .,0.003516
+1067,1067,potted plant_0.82;dining table_0.90;couch_0.39;tv_0.98;book_0.76;tie_0.67;chair_0.98,a group of people sitting around a wooden table .,0.003109
+1068,1068,potted plant_0.82;dining table_0.90;couch_0.39;tv_0.98;book_0.76;tie_0.67;chair_0.98,a group of people sitting around a wooden table .,0.003109
+1069,1069,dining table_0.47;potted plant_0.88;book_0.61;chair_0.98;refrigerator_0.45;vase_0.88,a woman in a red dress holding a glass of wine .,7.00E-06
+1070,1070,dining table_0.47;potted plant_0.88;book_0.61;chair_0.98;refrigerator_0.45;vase_0.88,a woman in a red dress holding a glass of wine .,7.00E-06
+1071,1071,dining table_0.47;potted plant_0.88;book_0.61;chair_0.98;refrigerator_0.45;vase_0.88,a woman in a red dress holding a glass of wine .,7.00E-06
+1072,1072,dining table_0.47;potted plant_0.88;book_0.61;chair_0.98;refrigerator_0.45;vase_0.88,a woman in a red dress holding a glass of wine .,7.00E-06
+1073,1073,bottle_0.63;bowl_0.36;vase_0.56;cup_0.72;sink_0.66,a woman in a white dress holding a glass of wine .,1.30E-05
+1074,1074,bottle_0.63;bowl_0.36;vase_0.56;cup_0.72;sink_0.66,a woman in a white dress holding a glass of wine .,1.30E-05
+1075,1075,cup_0.84;potted plant_0.68;sink_0.71;dining table_0.87;book_0.78;bottle_0.48;chair_0.99;refrigerator_1.00;vase_0.80,a woman standing in front of a refrigerator .,0.000893
+1076,1076,cup_0.84;potted plant_0.68;sink_0.71;dining table_0.87;book_0.78;bottle_0.48;chair_0.99;refrigerator_1.00;vase_0.80,a woman standing in front of a refrigerator .,0.000893
+1077,1077,cup_0.84;potted plant_0.68;sink_0.71;dining table_0.87;book_0.78;bottle_0.48;chair_0.99;refrigerator_1.00;vase_0.80,a woman standing in front of a refrigerator .,0.000893
+1078,1078,cup_0.88;sink_0.80;car_0.41;bottle_0.93;bowl_0.41;vase_0.41,a woman in a white dress holding a toothbrush .,1.70E-05
+1079,1079,cup_0.88;sink_0.80;car_0.41;bottle_0.93;bowl_0.41;vase_0.41,a woman in a white dress holding a toothbrush .,1.70E-05
+1080,1080,dining table_0.48;potted plant_0.90;wine glass_0.41;book_0.49;tie_1.00;chair_0.83,a man and a woman standing next to each other .,0.001623
+1081,1081,dining table_0.48;potted plant_0.90;wine glass_0.41;book_0.49;tie_1.00;chair_0.83,a man and a woman standing next to each other .,0.001623
+1082,1082,dining table_0.48;potted plant_0.90;wine glass_0.41;book_0.49;tie_1.00;chair_0.83,a man and a woman standing next to each other .,0.001623
+1083,1083,refrigerator_0.94;vase_0.70;sink_0.57,a woman standing next to a woman in a kitchen .,0.000135
+1084,1084,refrigerator_0.94;vase_0.70;sink_0.57,a woman standing next to a woman in a kitchen .,0.000135
+1085,1085,refrigerator_0.94;vase_0.70;sink_0.57,a woman standing next to a woman in a kitchen .,0.000135
+1086,1086,refrigerator_0.94;vase_0.70;sink_0.57,a woman standing next to a woman in a kitchen .,0.000135
+1087,1087,refrigerator_0.94;vase_0.70;sink_0.57,a woman standing next to a woman in a kitchen .,0.000135
+1088,1088,dining table_0.46;potted plant_0.91;book_0.64;tie_0.99;chair_0.78;frisbee_0.54,two men standing next to each other in a room .,0.001465
+1089,1089,bottle_0.93;bowl_0.42;cup_0.84;sink_0.74,a woman holding a cell phone in her hand .,0.000625
+1090,1090,bottle_0.93;bowl_0.42;cup_0.84;sink_0.74,a woman holding a cell phone in her hand .,0.000625
+1091,1091,bottle_0.93;bowl_0.42;cup_0.84;sink_0.74,a woman holding a cell phone in her hand .,0.000625
+1092,1092,cup_0.36;potted plant_0.83;dining table_0.42;teddy bear_0.40;book_0.62;chair_0.92;vase_0.90,a woman in a red dress holding a wii remote .,7.00E-06
+1093,1093,cup_0.36;potted plant_0.83;dining table_0.42;teddy bear_0.40;book_0.62;chair_0.92;vase_0.90,a woman in a red dress holding a wii remote .,7.00E-06
+1094,1094,cup_0.36;potted plant_0.83;dining table_0.42;teddy bear_0.40;book_0.62;chair_0.92;vase_0.90,a woman in a red dress holding a wii remote .,7.00E-06
+1095,1095,cup_0.36;potted plant_0.83;dining table_0.42;teddy bear_0.40;book_0.62;chair_0.92;vase_0.90,a woman in a red dress holding a wii remote .,7.00E-06
+1096,1096,cup_0.36;potted plant_0.83;dining table_0.42;teddy bear_0.40;book_0.62;chair_0.92;vase_0.90,a woman in a red dress holding a wii remote .,7.00E-06
+1097,1097,cup_0.65;sink_0.80;laptop_0.40;bottle_0.86;refrigerator_0.36;bowl_0.64;vase_0.55,a woman and a man standing in a kitchen .,0.000158
+1098,1098,cup_0.65;sink_0.80;laptop_0.40;bottle_0.86;refrigerator_0.36;bowl_0.64;vase_0.55,a woman and a man standing in a kitchen .,0.000158
+1099,1099,cup_0.65;sink_0.80;laptop_0.40;bottle_0.86;refrigerator_0.36;bowl_0.64;vase_0.55,a woman and a man standing in a kitchen .,0.000158
+1100,1100,chair_0.90;vase_0.51;potted plant_0.93,a woman sitting at a table with a glass of wine .,0.000255
+1101,1101,cup_0.50;potted plant_0.68;dining table_0.90;couch_0.73;book_0.73;tie_0.93;chair_0.85;refrigerator_1.00;bottle_0.60,a group of people standing in a kitchen .,0.001639
+1102,1102,cup_0.50;potted plant_0.68;dining table_0.90;couch_0.73;book_0.73;tie_0.93;chair_0.85;refrigerator_1.00;bottle_0.60,a group of people standing in a kitchen .,0.001639
+1103,1103,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1104,1104,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1105,1105,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1106,1106,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1107,1107,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1108,1108,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1109,1109,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1110,1110,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1111,1111,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1112,1112,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1113,1113,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1114,1114,cup_0.61;potted plant_0.92;tv_0.47;tie_1.00;chair_0.98;handbag_0.37,a man and a woman standing next to each other .,0.001949
+1115,1115,cup_0.89;potted plant_0.70;dining table_0.50;couch_0.99;oven_0.73;book_0.70;bottle_0.61;chair_0.99;tie_0.94;vase_0.47,a group of people sitting around a living room .,0.001007
+1116,1116,cup_0.89;potted plant_0.70;dining table_0.50;couch_0.99;oven_0.73;book_0.70;bottle_0.61;chair_0.99;tie_0.94;vase_0.47,a group of people sitting around a living room .,0.001007
+1117,1117,cup_0.89;potted plant_0.70;dining table_0.50;couch_0.99;oven_0.73;book_0.70;bottle_0.61;chair_0.99;tie_0.94;vase_0.47,a group of people sitting around a living room .,0.001007
+1118,1118,cup_0.89;potted plant_0.70;dining table_0.50;couch_0.99;oven_0.73;book_0.70;bottle_0.61;chair_0.99;tie_0.94;vase_0.47,a group of people sitting around a living room .,0.001007
+1119,1119,cup_0.89;potted plant_0.70;dining table_0.50;couch_0.99;oven_0.73;book_0.70;bottle_0.61;chair_0.99;tie_0.94;vase_0.47,a group of people sitting around a living room .,0.001007
+1120,1120,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1121,1121,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1122,1122,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1123,1123,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1124,1124,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1125,1125,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1126,1126,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1127,1127,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1128,1128,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1129,1129,couch_0.53;chair_0.52;potted plant_0.66,a woman sitting on a bench in front of a window .,0.000501
+1130,1130,dining table_0.51;potted plant_0.88;apple_0.43;book_0.63;tie_1.00;chair_0.99;refrigerator_0.95;bottle_0.45;vase_0.42,a couple of women standing next to each other .,0.007539
+1131,1131,dining table_0.51;potted plant_0.88;apple_0.43;book_0.63;tie_1.00;chair_0.99;refrigerator_0.95;bottle_0.45;vase_0.42,a couple of women standing next to each other .,0.007539
+1132,1132,dining table_0.51;potted plant_0.88;apple_0.43;book_0.63;tie_1.00;chair_0.99;refrigerator_0.95;bottle_0.45;vase_0.42,a couple of women standing next to each other .,0.007539
+1133,1133,dining table_0.51;potted plant_0.88;apple_0.43;book_0.63;tie_1.00;chair_0.99;refrigerator_0.95;bottle_0.45;vase_0.42,a couple of women standing next to each other .,0.007539
+1134,1134,dining table_0.51;potted plant_0.88;apple_0.43;book_0.63;tie_1.00;chair_0.99;refrigerator_0.95;bottle_0.45;vase_0.42,a couple of women standing next to each other .,0.007539
+1135,1135,dining table_0.51;potted plant_0.88;apple_0.43;book_0.63;tie_1.00;chair_0.99;refrigerator_0.95;bottle_0.45;vase_0.42,a couple of women standing next to each other .,0.007539
+1136,1136,dining table_0.51;potted plant_0.88;apple_0.43;book_0.63;tie_1.00;chair_0.99;refrigerator_0.95;bottle_0.45;vase_0.42,a couple of women standing next to each other .,0.007539
+1137,1137,dining table_0.51;potted plant_0.88;apple_0.43;book_0.63;tie_1.00;chair_0.99;refrigerator_0.95;bottle_0.45;vase_0.42,a couple of women standing next to each other .,0.007539
+1138,1138,cup_0.87;potted plant_0.97;dining table_0.78;couch_0.81;laptop_0.45;tv_0.98;book_0.46;bottle_0.71;chair_1.00;tie_0.37;refrigerator_0.75;suitcase_0.56;vase_0.97,a group of people standing around a table .,0.000229
+1139,1139,cup_0.87;potted plant_0.97;dining table_0.78;couch_0.81;laptop_0.45;tv_0.98;book_0.46;bottle_0.71;chair_1.00;tie_0.37;refrigerator_0.75;suitcase_0.56;vase_0.97,a group of people standing around a table .,0.000229
+1140,1140,cup_0.87;potted plant_0.97;dining table_0.78;couch_0.81;laptop_0.45;tv_0.98;book_0.46;bottle_0.71;chair_1.00;tie_0.37;refrigerator_0.75;suitcase_0.56;vase_0.97,a group of people standing around a table .,0.000229
+1141,1141,cup_0.87;potted plant_0.97;dining table_0.78;couch_0.81;laptop_0.45;tv_0.98;book_0.46;bottle_0.71;chair_1.00;tie_0.37;refrigerator_0.75;suitcase_0.56;vase_0.97,a group of people standing around a table .,0.000229
+1142,1142,handbag_0.59;potted plant_0.82;wine glass_0.58;book_0.86;tie_0.99;chair_0.98;refrigerator_0.92;bottle_0.49;bowl_0.63;vase_0.51,a man in a suit and tie standing in a room .,0.000269
+1143,1143,handbag_0.59;potted plant_0.82;wine glass_0.58;book_0.86;tie_0.99;chair_0.98;refrigerator_0.92;bottle_0.49;bowl_0.63;vase_0.51,a man in a suit and tie standing in a room .,0.000269
+1144,1144,handbag_0.59;potted plant_0.82;wine glass_0.58;book_0.86;tie_0.99;chair_0.98;refrigerator_0.92;bottle_0.49;bowl_0.63;vase_0.51,a man in a suit and tie standing in a room .,0.000269
+1145,1145,cup_0.72;potted plant_0.86;oven_0.96;tv_1.00;bottle_0.50;chair_0.94;bowl_0.52;vase_0.91,a man standing in a kitchen preparing food .,0.013676
+1146,1146,cup_0.72;potted plant_0.86;oven_0.96;tv_1.00;bottle_0.50;chair_0.94;bowl_0.52;vase_0.91,a man standing in a kitchen preparing food .,0.013676
+1147,1147,cup_0.88;dining table_0.59;potted plant_0.97;couch_0.62;bench_0.83;book_0.63;tie_0.99;chair_0.99;refrigerator_0.99;bottle_0.43;clock_0.55,a group of people standing around a table .,0.000744
+1148,1148,cup_0.88;dining table_0.59;potted plant_0.97;couch_0.62;bench_0.83;book_0.63;tie_0.99;chair_0.99;refrigerator_0.99;bottle_0.43;clock_0.55,a group of people standing around a table .,0.000744
+1149,1149,cup_0.88;dining table_0.59;potted plant_0.97;couch_0.62;bench_0.83;book_0.63;tie_0.99;chair_0.99;refrigerator_0.99;bottle_0.43;clock_0.55,a group of people standing around a table .,0.000744
+1150,1150,cup_0.88;dining table_0.59;potted plant_0.97;couch_0.62;bench_0.83;book_0.63;tie_0.99;chair_0.99;refrigerator_0.99;bottle_0.43;clock_0.55,a group of people standing around a table .,0.000744
+1151,1151,cup_0.87;potted plant_0.75;wine glass_0.47;book_0.80;bottle_0.74;donut_0.44;vase_0.95,a woman standing in front of a refrigerator .,0.001729
+1152,1152,cup_0.87;potted plant_0.75;wine glass_0.47;book_0.80;bottle_0.74;donut_0.44;vase_0.95,a woman standing in front of a refrigerator .,0.001729
+1153,1153,tie_0.98;chair_0.92;potted plant_0.48,a man in a suit and tie standing in a room .,0.00143
+1154,1154,tie_0.98;chair_0.92;potted plant_0.48,a man in a suit and tie standing in a room .,0.00143
+1155,1155,,a woman standing in front of a mirror in a room .,0.000127
+1156,1156,,a woman standing in front of a mirror in a room .,0.000127
+1157,1157,tie_0.95;chair_0.97;potted plant_0.47;dining table_0.56;bed_0.97,a man and a woman standing in a bedroom .,0.000108
+1158,1158,tie_0.95;chair_0.97;potted plant_0.47;dining table_0.56;bed_0.97,a man and a woman standing in a bedroom .,0.000108
+1159,1159,tie_0.99,a man in a suit and tie standing in a room .,0.001759
+1160,1160,tv_0.57,a woman in a white shirt holding a white controller .,4.00E-06
+1161,1161,tv_0.57,a woman in a white shirt holding a white controller .,4.00E-06
+1162,1162,tv_0.57,a woman in a white shirt holding a white controller .,4.00E-06
+1163,1163,tie_0.99,a man in a suit and tie standing in a room .,0.0014
+1164,1164,tie_0.99,a man in a suit and tie standing in a room .,0.0014
+1165,1165,wine glass_0.48,a woman standing in front of a mirror in a bathroom .,0.000164
+1166,1166,wine glass_0.48,a woman standing in front of a mirror in a bathroom .,0.000164
+1167,1167,wine glass_0.48,a woman standing in front of a mirror in a bathroom .,0.000164
+1168,1168,wine glass_0.48,a woman standing in front of a mirror in a bathroom .,0.000164
+1169,1169,potted plant_0.46;dining table_0.70;couch_0.45;tie_0.91;chair_0.64;bed_0.86;vase_0.37,a man and a woman standing next to each other .,0.002296
+1170,1170,potted plant_0.46;dining table_0.70;couch_0.45;tie_0.91;chair_0.64;bed_0.86;vase_0.37,a man and a woman standing next to each other .,0.002296
+1171,1171,potted plant_0.46;dining table_0.70;couch_0.45;tie_0.91;chair_0.64;bed_0.86;vase_0.37,a man and a woman standing next to each other .,0.002296
+1172,1172,tv_0.40,a woman in a red dress holding a cell phone .,1.70E-05
+1173,1173,tv_0.40,a woman in a red dress holding a cell phone .,1.70E-05
+1174,1174,tie_1.00;wine glass_0.68,a man and a woman standing next to each other .,0.001876
+1175,1175,tie_1.00;wine glass_0.68,a man and a woman standing next to each other .,0.001876
+1176,1176,tie_1.00;wine glass_0.68,a man and a woman standing next to each other .,0.001876
+1177,1177,tie_0.94;spoon_0.42,a woman in a red dress is talking on a cell phone .,1.70E-05
+1178,1178,tie_0.94;spoon_0.42,a woman in a red dress is talking on a cell phone .,1.70E-05
+1179,1179,tie_0.95,a man in a suit and tie standing next to a woman .,0.000144
+1180,1180,tie_0.95,a man in a suit and tie standing next to a woman .,0.000144
+1181,1181,couch_0.74;tie_0.80;dining table_0.80;potted plant_0.82;bed_0.79,a man and a woman standing next to each other .,0.003782
+1182,1182,couch_0.74;tie_0.80;dining table_0.80;potted plant_0.82;bed_0.79,a man and a woman standing next to each other .,0.003782
+1183,1183,tie_1.00,a woman in a red dress standing in front of a mirror .,4.50E-05
+1184,1184,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1185,1185,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1186,1186,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1187,1187,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1188,1188,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1189,1189,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1190,1190,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1191,1191,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1192,1192,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1193,1193,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1194,1194,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1195,1195,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1196,1196,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1197,1197,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1198,1198,tie_1.00;chair_0.70,a couple of men standing next to each other .,0.006552
+1199,1199,dining table_0.77;potted plant_0.54;couch_0.91;tie_0.97;chair_0.97;traffic light_0.91;handbag_0.58;vase_0.66,a group of people standing next to each other .,0.003886
+1200,1200,dining table_0.77;potted plant_0.54;couch_0.91;tie_0.97;chair_0.97;traffic light_0.91;handbag_0.58;vase_0.66,a group of people standing next to each other .,0.003886
+1201,1201,dining table_0.77;potted plant_0.54;couch_0.91;tie_0.97;chair_0.97;traffic light_0.91;handbag_0.58;vase_0.66,a group of people standing next to each other .,0.003886
+1202,1202,dining table_0.77;potted plant_0.54;couch_0.91;tie_0.97;chair_0.97;traffic light_0.91;handbag_0.58;vase_0.66,a group of people standing next to each other .,0.003886
+1203,1203,tie_1.00,a man and a woman standing next to each other .,0.00255
+1204,1204,tv_0.60,a woman in a white dress standing in front of a mirror .,9.20E-05
+1205,1205,tv_0.60,a woman in a white dress standing in front of a mirror .,9.20E-05
+1206,1206,tv_0.60,a woman in a white dress standing in front of a mirror .,9.20E-05
+1207,1207,tie_1.00;chair_0.69,a couple of people standing next to each other .,0.003467
+1208,1208,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1209,1209,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1210,1210,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1211,1211,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1212,1212,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1213,1213,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1214,1214,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1215,1215,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1216,1216,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1217,1217,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1218,1218,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1219,1219,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1220,1220,tv_0.74,a woman in a white dress holding a white frisbee .,6.00E-06
+1221,1221,couch_0.80;tie_0.98,a couple of men standing next to each other .,0.006429
+1222,1222,couch_0.80;tie_0.98,a couple of men standing next to each other .,0.006429
+1223,1223,couch_0.80;tie_0.98,a couple of men standing next to each other .,0.006429
+1224,1224,tv_0.48,a woman in a white dress holding a cell phone .,1.80E-05
+1225,1225,tv_0.48,a woman in a white dress holding a cell phone .,1.80E-05
+1226,1226,tv_0.48,a woman in a white dress holding a cell phone .,1.80E-05
+1227,1227,tv_0.48,a woman in a white dress holding a cell phone .,1.80E-05
+1228,1228,tv_0.48,a woman in a white dress holding a cell phone .,1.80E-05
+1229,1229,tv_0.48,a woman in a white dress holding a cell phone .,1.80E-05
+1230,1230,couch_0.40;tie_1.00;bed_0.65,a man in a suit and tie sitting at a table .,0.001056
+1231,1231,couch_0.40;tie_1.00;bed_0.65,a man in a suit and tie sitting at a table .,0.001056
+1232,1232,tie_0.99,a man and a woman standing next to each other .,0.002489
+1233,1233,tie_0.99,a man and a woman standing next to each other .,0.002489
+1234,1234,tie_0.99,a man and a woman standing next to each other .,0.002489
+1235,1235,tie_0.99,a man and a woman standing next to each other .,0.002489
+1236,1236,chair_0.51;wine glass_0.45,a woman in a white dress standing in front of a mirror .,2.50E-05
+1237,1237,chair_0.51;wine glass_0.45,a woman in a white dress standing in front of a mirror .,2.50E-05
+1238,1238,chair_0.51;wine glass_0.45,a woman in a white dress standing in front of a mirror .,2.50E-05
+1239,1239,chair_0.51;wine glass_0.45,a woman in a white dress standing in front of a mirror .,2.50E-05
+1240,1240,chair_0.51;wine glass_0.45,a woman in a white dress standing in front of a mirror .,2.50E-05
+1241,1241,tie_1.00,a man and a woman standing next to each other .,0.002462
+1242,1242,tie_1.00,a man and a woman standing next to each other .,0.002462
+1243,1243,tie_1.00,a man and a woman standing next to each other .,0.002462
+1244,1244,tie_1.00,a man and a woman standing next to each other .,0.002462
+1245,1245,chair_0.36,a woman in a blue dress standing in a room .,2.70E-05
+1246,1246,couch_0.91;tie_1.00;chair_0.73;bed_0.82,a man in a suit and tie standing in a room .,0.000738
+1247,1247,couch_0.91;tie_1.00;chair_0.73;bed_0.82,a man in a suit and tie standing in a room .,0.000738
+1248,1248,couch_0.91;tie_1.00;chair_0.73;bed_0.82,a man in a suit and tie standing in a room .,0.000738
+1249,1249,couch_0.91;tie_1.00;chair_0.73;bed_0.82,a man in a suit and tie standing in a room .,0.000738
+1250,1250,couch_0.91;tie_1.00;chair_0.73;bed_0.82,a man in a suit and tie standing in a room .,0.000738
+1251,1251,couch_0.91;tie_1.00;chair_0.73;bed_0.82,a man in a suit and tie standing in a room .,0.000738
+1252,1252,couch_0.91;tie_1.00;chair_0.73;bed_0.82,a man in a suit and tie standing in a room .,0.000738
+1253,1253,couch_0.50;tie_0.95;chair_0.99;bowl_0.57,a group of people standing around each other .,0.002419
+1254,1254,couch_0.50;tie_0.95;chair_0.99;bowl_0.57,a group of people standing around each other .,0.002419
+1255,1255,couch_0.50;tie_0.95;chair_0.99;bowl_0.57,a group of people standing around each other .,0.002419
+1256,1256,couch_0.50;tie_0.95;chair_0.99;bowl_0.57,a group of people standing around each other .,0.002419
+1257,1257,couch_0.50;tie_0.95;chair_0.99;bowl_0.57,a group of people standing around each other .,0.002419
+1258,1258,couch_0.50;tie_0.95;chair_0.99;bowl_0.57,a group of people standing around each other .,0.002419
+1259,1259,,a woman and a man standing next to each other .,0.000564
+1260,1260,,a woman and a man standing next to each other .,0.000564
+1261,1261,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1262,1262,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1263,1263,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1264,1264,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1265,1265,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1266,1266,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1267,1267,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1268,1268,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1269,1269,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1270,1270,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1271,1271,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1272,1272,tie_1.00;knife_0.48,a couple of men standing next to each other .,0.010869
+1273,1273,chair_0.99;traffic light_0.49;handbag_0.93;dining table_0.75;bed_0.65,a couple of people standing in a room .,0.001394
+1274,1274,chair_0.99;traffic light_0.49;handbag_0.93;dining table_0.75;bed_0.65,a couple of people standing in a room .,0.001394
+1275,1275,chair_0.99;traffic light_0.49;handbag_0.93;dining table_0.75;bed_0.65,a couple of people standing in a room .,0.001394
+1276,1276,chair_0.99;traffic light_0.49;handbag_0.93;dining table_0.75;bed_0.65,a couple of people standing in a room .,0.001394
+1277,1277,,a black and white photo of a clock tower .,0.000709
+1278,1278,cup_0.59;potted plant_0.92;dining table_0.42;couch_0.80;tv_0.99;bottle_0.75;chair_0.99;vase_0.69,a woman standing in a living room next to a table .,0.000219
+1279,1279,cup_0.59;potted plant_0.92;dining table_0.42;couch_0.80;tv_0.99;bottle_0.75;chair_0.99;vase_0.69,a woman standing in a living room next to a table .,0.000219
+1280,1280,cup_0.59;potted plant_0.92;dining table_0.42;couch_0.80;tv_0.99;bottle_0.75;chair_0.99;vase_0.69,a woman standing in a living room next to a table .,0.000219
+1281,1281,cup_0.35;potted plant_0.65;bottle_0.69;tie_0.44;chair_0.66;sports ball_0.41;skateboard_0.96,a woman is sitting on a bench with a book .,1.30E-05
+1282,1282,cup_0.35;potted plant_0.65;bottle_0.69;tie_0.44;chair_0.66;sports ball_0.41;skateboard_0.96,a woman is sitting on a bench with a book .,1.30E-05
+1283,1283,cup_0.35;potted plant_0.65;bottle_0.69;tie_0.44;chair_0.66;sports ball_0.41;skateboard_0.96,a woman is sitting on a bench with a book .,1.30E-05
+1284,1284,cup_0.35;potted plant_0.65;bottle_0.69;tie_0.44;chair_0.66;sports ball_0.41;skateboard_0.96,a woman is sitting on a bench with a book .,1.30E-05
+1285,1285,cup_0.35;potted plant_0.65;bottle_0.69;tie_0.44;chair_0.66;sports ball_0.41;skateboard_0.96,a woman is sitting on a bench with a book .,1.30E-05
+1286,1286,cup_0.35;potted plant_0.65;bottle_0.69;tie_0.44;chair_0.66;sports ball_0.41;skateboard_0.96,a woman is sitting on a bench with a book .,1.30E-05
+1287,1287,cup_0.35;potted plant_0.65;bottle_0.69;tie_0.44;chair_0.66;sports ball_0.41;skateboard_0.96,a woman is sitting on a bench with a book .,1.30E-05
+1288,1288,cell phone_0.37;chair_0.48,a sign that is on the side of a building .,0.000266
+1289,1289,cell phone_0.37;chair_0.48,a sign that is on the side of a building .,0.000266
+1290,1290,cell phone_0.37;chair_0.48,a sign that is on the side of a building .,0.000266
+1291,1291,cell phone_0.37;chair_0.48,a sign that is on the side of a building .,0.000266
+1292,1292,cell phone_0.37;chair_0.48,a sign that is on the side of a building .,0.000266
+1293,1293,cell phone_0.37;chair_0.48,a sign that is on the side of a building .,0.000266
+1294,1294,bottle_0.37;microwave_0.68,a woman is holding a teddy bear in a store .,3.50E-05
+1295,1295,chair_0.80,a man is taking a picture of himself in a mirror .,0.000363
+1296,1296,chair_0.80,a man is taking a picture of himself in a mirror .,0.000363
+1297,1297,bottle_0.51;chair_0.46;potted plant_0.51;skateboard_0.97,a woman standing next to a giant teddy bear .,0.000238
+1298,1298,bottle_0.51;chair_0.46;potted plant_0.51;skateboard_0.97,a woman standing next to a giant teddy bear .,0.000238
+1299,1299,bottle_0.51;chair_0.46;potted plant_0.51;skateboard_0.97,a woman standing next to a giant teddy bear .,0.000238
+1300,1300,bottle_0.81;fork_0.46,a woman is standing in front of a store,2.60E-05
+1301,1301,bottle_0.81;fork_0.46,a woman is standing in front of a store,2.60E-05
+1302,1302,bottle_0.49;potted plant_0.57;microwave_0.58,a woman in a dress holding a cell phone .,1.10E-05
+1303,1303,bottle_0.49;potted plant_0.57;microwave_0.58,a woman in a dress holding a cell phone .,1.10E-05
+1304,1304,,a picture of a person holding a cell phone .,8.00E-06
+1305,1305,chair_0.37;wine glass_0.40;dining table_0.52,a man is standing in front of a store window .,5.00E-06
+1306,1306,chair_0.37;wine glass_0.40;dining table_0.52,a man is standing in front of a store window .,5.00E-06
+1307,1307,chair_0.37;wine glass_0.40;dining table_0.52,a man is standing in front of a store window .,5.00E-06
+1308,1308,chair_0.37;wine glass_0.40;dining table_0.52,a man is standing in front of a store window .,5.00E-06
+1309,1309,tv_1.00;couch_0.42;chair_0.96;vase_0.57;cup_0.52,a book shelf filled with lots of books .,0.00066
+1310,1310,frisbee_0.70;surfboard_0.70,a close up of a person holding a frisbee,0.000447
+1311,1311,frisbee_0.70;surfboard_0.70,a close up of a person holding a frisbee,0.000447
+1312,1312,stop sign_0.81,a close up of a red and white clock .,0.000165
+1313,1313,stop sign_0.81,a close up of a red and white clock .,0.000165
+1314,1314,stop sign_0.81,a close up of a red and white clock .,0.000165
+1315,1315,,a black and white photo of a clock tower .,0.000709
+1316,1316,,a black and white photo of a clock tower .,0.000709
+1317,1317,,a black and white photo of a clock tower .,0.000709
